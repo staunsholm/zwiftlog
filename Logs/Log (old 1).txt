@@ -1,0 +1,2250 @@
+[17:26:08] Log Time: 17:26:08 2015-11-02
+[17:26:08] Loading WAD file 'assets/global.wad' with file.
+[17:26:08] Loading WAD file 'assets/UI/WhiteOrangeTheme/WhiteOrangeTheme.wad' with file.
+[17:26:08] Successful audio init!
+[17:26:08] Initializing graphics window of size 0 x 0
+[17:26:08] Checking Extensions
+[17:26:08] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not fi
+[17:26:08] Calculation Graphics Score
+[17:26:08] Initializing Render Targets
+[17:26:08] Initializing Texture Systems
+[17:26:08] Suceeded initializing graphics
+[17:26:08] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[17:26:08] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[17:26:08] Loading WAD file 'assets/fonts/font.wad' with file.
+[17:26:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[17:26:09] Using medium graphics profile
+[17:26:09] > res 1280x720(0x)
+[17:26:09] Changed resolution to 1280 x 720  ( NO MSAA )
+
+[17:26:09] > sres 1024x1024
+[17:26:09] Changed shadow resolution to 1024 x 1024
+
+[17:26:09] > aniso 4
+[17:26:09] > set gSSAO=0
+[17:26:09] > set gFXAA=1
+[17:26:09] > set gSunRays=0
+[17:26:09] > set gHeadlight=0
+[17:26:09] > set gFoliagePercent=0.5
+[17:26:09] > set gSimpleReflections=1
+[17:26:09] > set gLODBias=1
+[17:26:09] Loading WAD file 'assets/Environment/Road/FreshRoad/FreshRoad.wad' with file.
+[17:26:09] Loading WAD file 'assets/Environment/Road/Cobblestone/Cobblestone.wad' with file.
+[17:26:09] Unable to load texture file Environment\Structures\CoveredBridge_Norm_02.tga
+[17:26:09] Unable to load texture file Environment\Buildings\VictorianHouses\Textures\WoodSiding04.tga
+[17:26:09] > res 1920x1080
+[17:26:09] Changed resolution to 1920 x 1080
+
+[17:26:09] OpenGL 2.1 NVIDIA-10.4.2 310.41.35f01 initialized
+[17:26:09] Graphics Vendor: NVIDIA Corporation
+[17:26:09] Graphics Renderer: NVIDIA GeForce GT 750M OpenGL Engine
+[17:26:09] RAM: 16GB
+[17:26:09] CPU: Intel(R) Core(TM) i7-4980HQ CPU @ 2.80GHz
+[17:26:09] ANT  : Clearing network key on network 0.
+[17:26:09] ANT  : Clearing network key on network 1.
+[17:26:09] ANT  : Clearing network key on network 2.
+[17:26:09] ANT  : TX POWER ID
+[17:26:09] ANT  : RESET Complete, reason: 
+[17:26:09] ANT  : RESET_CMD 
+[17:26:09] ANT  : ANT USB receiver found
+[17:26:09] Loading WAD file 'assets/workouts/workouts.wad' with file.
+[17:26:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not fi
+[17:26:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not fi
+[17:26:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not fi
+[17:26:09] ERROR: GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output of vertex shader 'linDepth' not read by fragment shader
+ERROR: Input of fragment shader 'vShad
+[17:26:09] ERROR: Missing Vertex Shader asset data/shaders/Final/simpleShader.vsh
+[17:26:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output of vertex shader 'vNormal' not read by fragment shader
+WARNING: Output of vertex shader 'vViewNormal' not read by fragment shader
+
+[17:26:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[17:26:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not fi
+[17:26:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[17:26:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not fi
+[17:26:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[17:26:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output of vertex shader 'vShadowTexCoords' not read by fragment shader
+WARNING: Output of vertex shader 'vTexCoord0' not read by fragment shader
+WARNING: Output of vertex shader 'vViewNormal' not read by fragment shader
+WARNING: Output of vertex shader 'vHeadlightCoords' not read by fragment shader
+
+[17:26:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[17:26:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output of vertex shader 'vColor' not read by fragment shader
+WARNING: Output of vertex shader 'vNormal' not 
+[17:26:09] ERROR: Missing Vertex Shader asset data/shaders/Final/SSR.vsh
+[17:26:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output of vertex shader 'vHeadlightCoords' not read by fragment shader
+WARNING: Output of vertex shader 'vCo
+[17:26:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output of vertex shader 'vHeadlightCoords' not read by fragment shader
+WARNING: Output of vertex shader 'vCo
+[17:26:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[17:26:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output of vertex shader 'vShadowTexCoords' not read by fragment shader
+
+[17:26:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output of vertex shader 'vShadowTexCoords' not read by fragment shader
+
+[17:26:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output of vertex shader 'vColor' not read by fragment shader
+WARNING: Output of vertex shader 'fogFactor' not read by fragment shader
+
+[17:26:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[17:26:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[17:26:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output of vertex shader 'vShadowTexCoords' not read by fragment shader
+
+[17:26:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not fi
+[17:26:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[17:26:10] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not fi
+[17:26:10] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output
+[17:26:10] Loading WAD file 'assets/Environment/SkyDome/sky.wad' with file.
+[17:26:10] GLSL log: WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+
+[17:26:10] GLSL log: WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+
+[17:26:10] GLSL log: WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+
+[17:26:10] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[17:26:10] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output of vertex shader 'vNormal' not read by fragment shader
+WARNING: Output of vertex shader 'vViewNormal' not read by fragment shader
+
+[17:26:10] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not fi
+[17:26:10] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[17:26:10] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output o
+[17:26:10] Loading WAD file 'assets/Bikes/Components/Zwift/Steel/ZwiftSteel.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Components/Campagnolo/SuperRecord/SuperRecord.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Wheels/Vision/Vision_Metron_81/Metron81.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Frames/Canyon_Aeroad/frame.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Frames/Parlee_ESX/frame.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Frames/Pinarello_Dogma/frame.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Frames/Pinarello_F8/frame.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Frames/Pinarello_TT/frame.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Frames/Trek/frame.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Frames/TrekMadone/frame.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Frames/Zwift_Aero/frame.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Frames/Zwift_BW/frame.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Frames/Zwift_Carbon/frame.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Frames/Zwift_Concept/frame.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Frames/Zwift_Steel/frame.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Frames/Zwift_TT/frame.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Frames/Specialized_Allez/frame.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Frames/Specialized_Venge/frame.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Frames/TrekEmonda/frame.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Frames/Specialized_Tarmac/frame.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Frames/Canyon_Speedmax/frame.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Wheels/Zipp/Zipp_808_Firecrest/Firecrest808.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Wheels/Zipp/Zipp_404_Firecrest/Firecrest404.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Wheels/Zipp/Zipp_202_Firecrest/Firecrest202.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Components/Shimano/DuraAce/DuraAce.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Components/Specialized/Sworks/Sworks.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Wheels/Zipp/Zipp_Disc/Disc.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Wheels/Mavic/CosmicCXR60c/CosmicCXR60c.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Wheels/Zwift/Zwift_Concept/Concept.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Wheels/Zwift/Zwift_Classic/Classic.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Wheels/Zwift/Zwift_BW/BW.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Wheels/Campagnolo/Campagnolo_Bora_Ultra/BoraUltra.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Wheels/Bontrager/Aeolus5/Aeolus5.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/Wheels/Specialized/Roval/Roval.wad' with file.
+[17:26:10] Unable to open WAD file "assets/Bikes/Specialized_Amira/frame.wad".
+[17:26:10] ERROR: Could not load wad file: assets/Bikes/Specialized_Amira/frame.wad
+[17:26:10] Unable to open WAD file "assets/Bikes/SpecializedShiv/frame.wad".
+[17:26:10] ERROR: Could not load wad file: assets/Bikes/SpecializedShiv/frame.wad
+[17:26:10] Loading WAD file 'assets/Humans/Accessories/Helmets/ZwiftHelmet.wad' with file.
+[17:26:10] Loading WAD file 'assets/Humans/Accessories/Glasses/ZwiftGlasses.wad' with file.
+[17:26:10] Loading WAD file 'assets/Humans/Accessories/Shoes/Shoes.wad' with file.
+[17:26:10] Loading WAD file 'assets/Bikes/bikes_config.wad' with file.
+[17:26:10] Unable to load texture file Bikes\Wheels\Vision_Metron_81\Textures\wheel_D_BlackOut.tga
+[17:26:10] Unable to load texture file Bikes\Wheels\Vision_Metron_81\Textures\wheel_D_BlackOut.tga
+[17:26:10] Unable to load texture file Bikes\Wheels\Zwift_Classic\Textures\Zwift_Classic_Diffuse.tga
+[17:26:10] Unable to load texture file Bikes\Wheels\Zwift_Classic\Textures\Zwift_Classic_Diffuse.tga
+[17:26:10] Loading WAD file 'assets/Humans/Jerseys/Originals/originals_01.wad' with file.
+[17:26:10] Loading WAD file 'assets/Humans/Jerseys/Pro_Teams/pro_teams_01.wad' with file.
+[17:26:11] Loading WAD file 'assets/Humans/Jerseys/Companies/Companies.wad' with file.
+[17:26:11] Loading WAD file 'assets/Humans/Jerseys/Originals/camo_01.wad' with file.
+[17:26:11] Loading WAD file 'assets/Humans/Male_Road_Cyclist_01/male_road_cyclist_01.wad' with file.
+[17:26:11] Loading WAD file 'assets/Humans/Male_Road_Cyclist_01/male_road_cyclist_01_textures.wad' with file.
+[17:26:11] Loading WAD file 'assets/Humans/Jerseys/Specials/specials_01.wad' with file.
+[17:26:11] Loading WAD file 'assets/Humans/Jerseys/Events/Events.wad' with file.
+[17:26:11] Loading WAD file 'assets/Humans/Jerseys/Clubs/Clubs.wad' with file.
+[17:26:11] Loading WAD file 'assets/Humans/Jerseys/Pack01/Pack01.wad' with file.
+[17:26:11] Loading WAD file 'assets/Humans/Jerseys/Pack02/Pack02.wad' with file.
+[17:26:11] Unable to load texture file Humans\Male_Road_Cyclist_01\textures\ZwiftHelmet2_Diffuse.tga
+[17:26:12] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[17:26:12] Loading WAD file 'assets/UI/flags/flags.wad' with file.
+[17:26:12] Loading WAD file 'assets/UI/Challenges/Challenges.wad' with file.
+[17:26:12] No username specified
+[17:26:12] Loaded audio banks
+[17:26:12] ANT  : Setting network key on network 0...
+[17:26:12] ANT  : Network Key Set
+[17:26:12] ANT  : Setting network key on network 1...
+[17:26:12] ANT  : AUC message id=64
+[17:26:12] ANT  : Network Key Set
+[17:26:13] ANT  : Setting network key on network 2...
+[17:26:13] ANT  : Network Key Set
+[17:26:13] LOAD TIME = 5249
+[17:26:13] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output of vertex shader 'vColor' not read by fragment shader
+
+[17:26:13] resize: 1436 x 855
+
+[17:26:17] FPS  19,  8803, 10196, -23009
+[17:26:18] FPS  19,  8803, 10196, -23009
+[17:26:20] FPS  19,  8803, 10196, -23009
+[17:26:21] FPS  18,  8803, 10196, -23009
+[17:26:23] FPS  20,  8803, 10196, -23009
+[17:26:25] FPS  18,  8803, 10196, -23009
+[17:26:26] FPS  20,  8803, 10196, -23009
+[17:26:28] FPS  19,  8803, 10196, -23009
+[17:26:29] FPS  19,  8803, 10196, -23009
+[17:26:31] FPS  19,  8803, 10196, -23009
+[17:26:32] FPS  20,  8803, 10196, -23009
+[17:26:34] FPS  19,  8803, 10196, -23009
+[17:26:36] FPS  19,  8803, 10196, -23009
+[17:26:37] FPS  19,  8803, 10196, -23009
+[17:26:39] FPS  20,  8803, 10196, -23009
+[17:26:40] FPS  19,  8803, 10196, -23009
+[17:26:42] FPS  20,  8803, 10196, -23009
+[17:26:43] FPS  19,  8803, 10196, -23009
+[17:26:45] FPS  20,  8803, 10196, -23009
+[17:26:47] FPS  19,  8803, 10196, -23009
+[17:26:48] FPS  19,  8803, 10196, -23009
+[17:26:50] FPS  20,  8803, 10196, -23009
+[17:26:51] FPS  19,  8803, 10196, -23009
+[17:26:53] FPS  19,  8803, 10196, -23009
+[17:26:54] FPS  20,  8803, 10196, -23009
+[17:26:56] FPS  19,  8803, 10196, -23009
+[17:26:57] FPS  19,  8803, 10196, -23009
+[17:26:59] FPS  20,  8803, 10196, -23009
+[17:27:01] FPS  19,  8803, 10196, -23009
+[17:27:02] FPS  19,  8803, 10196, -23009
+[17:27:04] FPS  19,  8803, 10196, -23009
+[17:27:05] FPS  19,  8803, 10196, -23009
+[17:27:07] FPS  19,  8803, 10196, -23009
+[17:27:08] FPS  19,  8803, 10196, -23009
+[17:27:10] FPS  19,  8803, 10196, -23009
+[17:27:11] FPS  19,  8803, 10196, -23009
+[17:27:13] FPS  19,  8803, 10196, -23009
+[17:27:15] FPS  19,  8803, 10196, -23009
+[17:27:16] FPS  20,  8803, 10196, -23009
+[17:27:18] FPS  19,  8803, 10196, -23009
+[17:27:19] FPS  19,  8803, 10196, -23009
+[17:27:21] FPS  19,  8803, 10196, -23009
+[17:27:22] FPS  19,  8803, 10196, -23009
+[17:27:24] FPS  19,  8803, 10196, -23009
+[17:27:26] FPS  19,  8803, 10196, -23009
+[17:27:27] FPS  19,  8803, 10196, -23009
+[17:27:29] FPS  19,  8803, 10196, -23009
+[17:27:30] FPS  19,  8803, 10196, -23009
+[17:27:32] FPS  19,  8803, 10196, -23009
+[17:27:33] FPS  19,  8803, 10196, -23009
+[17:27:35] FPS  19,  8803, 10196, -23009
+[17:27:37] FPS  19,  8803, 10196, -23009
+[17:27:38] FPS  19,  8803, 10196, -23009
+[17:27:40] FPS  19,  8803, 10196, -23009
+[17:27:41] FPS  19,  8803, 10196, -23009
+[17:27:43] FPS  19,  8803, 10196, -23009
+[17:27:44] FPS  19,  8803, 10196, -23009
+[17:27:46] FPS  19,  8803, 10196, -23009
+[17:27:48] FPS  19,  8803, 10196, -23009
+[17:27:49] FPS  19,  8803, 10196, -23009
+[17:27:51] FPS  19,  8803, 10196, -23009
+[17:27:52] FPS  19,  8803, 10196, -23009
+[17:27:54] FPS  19,  8803, 10196, -23009
+[17:27:55] FPS  19,  8803, 10196, -23009
+[17:27:57] FPS  19,  8803, 10196, -23009
+[17:27:59] FPS  19,  8803, 10196, -23009
+[17:28:00] FPS  19,  8803, 10196, -23009
+[17:28:02] FPS  18,  8803, 10196, -23009
+[17:28:03] FPS  19,  8803, 10196, -23009
+[17:28:05] FPS  19,  8803, 10196, -23009
+[17:28:07] FPS  20,  8803, 10196, -23009
+[17:28:08] FPS  19,  8803, 10196, -23009
+[17:28:10] FPS  20,  8803, 10196, -23009
+[17:28:11] FPS  19,  8803, 10196, -23009
+[17:28:13] FPS  19,  8803, 10196, -23009
+[17:28:14] FPS  19,  8803, 10196, -23009
+[17:28:16] FPS  20,  8803, 10196, -23009
+[17:28:17] FPS  19,  8803, 10196, -23009
+[17:28:19] FPS  19,  8803, 10196, -23009
+[17:28:21] FPS  19,  8803, 10196, -23009
+[17:28:22] FPS  20,  8803, 10196, -23009
+[17:28:24] FPS  18,  8803, 10196, -23009
+[17:28:25] FPS  20,  8803, 10196, -23009
+[17:28:27] FPS  19,  8803, 10196, -23009
+[17:28:28] FPS  20,  8803, 10196, -23009
+[17:28:30] FPS  19,  8803, 10196, -23009
+[17:28:31] FPS  20,  8803, 10196, -23009
+[17:28:33] FPS  20,  8803, 10196, -23009
+[17:28:35] FPS  20,  8803, 10196, -23009
+[17:28:36] FPS  20,  8803, 10196, -23009
+[17:28:38] FPS  19,  8803, 10196, -23009
+[17:28:39] FPS  19,  8803, 10196, -23009
+[17:28:41] FPS  20,  8803, 10196, -23009
+[17:28:42] FPS  20,  8803, 10196, -23009
+[17:28:44] FPS  20,  8803, 10196, -23009
+[17:28:45] FPS  20,  8803, 10196, -23009
+[17:28:47] FPS  20,  8803, 10196, -23009
+[17:28:48] FPS  20,  8803, 10196, -23009
+[17:28:50] FPS  20,  8803, 10196, -23009
+[17:28:51] FPS  19,  8803, 10196, -23009
+[17:28:53] FPS  19,  8803, 10196, -23009
+[17:28:55] FPS  19,  8803, 10196, -23009
+[17:28:56] FPS  19,  8803, 10196, -23009
+[17:28:58] FPS  19,  8803, 10196, -23009
+[17:28:59] FPS  20,  8803, 10196, -23009
+[17:29:01] FPS  19,  8803, 10196, -23009
+[17:29:02] FPS  19,  8803, 10196, -23009
+[17:29:04] FPS  19,  8803, 10196, -23009
+[17:29:06] FPS  19,  8803, 10196, -23009
+[17:29:07] FPS  19,  8803, 10196, -23009
+[17:29:09] FPS  19,  8803, 10196, -23009
+[17:29:10] FPS  19,  8803, 10196, -23009
+[17:29:12] FPS  20,  8803, 10196, -23009
+[17:29:13] FPS  20,  8803, 10196, -23009
+[17:29:15] FPS  19,  8803, 10196, -23009
+[17:29:16] FPS  20,  8803, 10196, -23009
+[17:29:18] FPS  19,  8803, 10196, -23009
+[17:29:19] FPS  20,  8803, 10196, -23009
+[17:29:21] FPS  20,  8803, 10196, -23009
+[17:29:22] FPS  21,  8803, 10196, -23009
+[17:29:24] FPS  19,  8803, 10196, -23009
+[17:29:26] FPS  19,  8803, 10196, -23009
+[17:29:27] FPS  19,  8803, 10196, -23009
+[17:29:29] FPS  19,  8803, 10196, -23009
+[17:29:30] FPS  19,  8803, 10196, -23009
+[17:29:32] FPS  21,  8803, 10196, -23009
+[17:29:33] FPS  19,  8803, 10196, -23009
+[17:29:35] FPS  19,  8803, 10196, -23009
+[17:29:36] FPS  20,  8803, 10196, -23009
+[17:29:38] FPS  20,  8803, 10196, -23009
+[17:29:39] FPS  18,  8803, 10196, -23009
+[17:29:41] FPS  19,  8803, 10196, -23009
+[17:29:43] FPS  20,  8803, 10196, -23009
+[17:29:44] FPS  20,  8803, 10196, -23009
+[17:29:46] FPS  21,  8803, 10196, -23009
+[17:29:47] FPS  20,  8803, 10196, -23009
+[17:29:49] FPS  18,  8803, 10196, -23009
+[17:29:50] FPS  19,  8803, 10196, -23009
+[17:29:52] FPS  20,  8803, 10196, -23009
+[17:29:53] FPS  19,  8803, 10196, -23009
+[17:29:55] FPS  21,  8803, 10196, -23009
+[17:29:56] FPS  19,  8803, 10196, -23009
+[17:29:58] FPS  20,  8803, 10196, -23009
+[17:30:00] FPS  18,  8803, 10196, -23009
+[17:30:01] FPS  20,  8803, 10196, -23009
+[17:30:02] FPS  20,  8803, 10196, -23009
+[17:30:04] FPS  20,  8803, 10196, -23009
+[17:30:05] FPS  20,  8803, 10196, -23009
+[17:30:07] FPS  20,  8803, 10196, -23009
+[17:30:08] FPS  20,  8803, 10196, -23009
+[17:30:10] FPS  21,  8803, 10196, -23009
+[17:30:11] FPS  21,  8803, 10196, -23009
+[17:30:13] FPS  21,  8803, 10196, -23009
+[17:30:14] FPS  21,  8803, 10196, -23009
+[17:30:16] FPS  21,  8803, 10196, -23009
+[17:30:17] FPS  21,  8803, 10196, -23009
+[17:30:19] FPS  21,  8803, 10196, -23009
+[17:30:20] FPS  21,  8803, 10196, -23009
+[17:30:21] FPS  21,  8803, 10196, -23009
+[17:30:23] FPS  20,  8803, 10196, -23009
+[17:30:24] FPS  21,  8803, 10196, -23009
+[17:30:26] FPS  20,  8803, 10196, -23009
+[17:30:27] FPS  20,  8803, 10196, -23009
+[17:30:29] FPS  20,  8803, 10196, -23009
+[17:30:30] FPS  20,  8803, 10196, -23009
+[17:30:32] FPS  20,  8803, 10196, -23009
+[17:30:34] FPS  18,  8803, 10196, -23009
+[17:30:35] FPS  19,  8803, 10196, -23009
+[17:30:37] FPS  19,  8803, 10196, -23009
+[17:30:38] FPS  20,  8803, 10196, -23009
+[17:30:40] FPS  19,  8803, 10196, -23009
+[17:30:41] FPS  20,  8803, 10196, -23009
+[17:30:43] FPS  20,  8803, 10196, -23009
+[17:30:44] FPS  19,  8803, 10196, -23009
+[17:30:46] FPS  19,  8803, 10196, -23009
+[17:30:47] FPS  19,  8803, 10196, -23009
+[17:30:49] FPS  20,  8803, 10196, -23009
+[17:30:50] FPS  20,  8803, 10196, -23009
+[17:30:52] FPS  20,  8803, 10196, -23009
+[17:30:54] FPS  20,  8803, 10196, -23009
+[17:30:55] FPS  19,  8803, 10196, -23009
+[17:30:57] FPS  20,  8803, 10196, -23009
+[17:30:58] FPS  20,  8803, 10196, -23009
+[17:31:00] FPS  20,  8803, 10196, -23009
+[17:31:01] FPS  20,  8803, 10196, -23009
+[17:31:03] FPS  20,  8803, 10196, -23009
+[17:31:04] FPS  20,  8803, 10196, -23009
+[17:31:06] FPS  19,  8803, 10196, -23009
+[17:31:07] FPS  20,  8803, 10196, -23009
+[17:31:09] FPS  19,  8803, 10196, -23009
+[17:31:11] FPS  19,  8803, 10196, -23009
+[17:31:12] FPS  19,  8803, 10196, -23009
+[17:31:14] FPS  19,  8803, 10196, -23009
+[17:31:15] FPS  18,  8803, 10196, -23009
+[17:31:17] FPS  20,  8803, 10196, -23009
+[17:31:18] FPS  20,  8803, 10196, -23009
+[17:31:20] FPS  20,  8803, 10196, -23009
+[17:31:21] FPS  19,  8803, 10196, -23009
+[17:31:23] FPS  19,  8803, 10196, -23009
+[17:31:25] FPS  19,  8803, 10196, -23009
+[17:31:26] FPS  19,  8803, 10196, -23009
+[17:31:28] FPS  19,  8803, 10196, -23009
+[17:31:29] FPS  19,  8803, 10196, -23009
+[17:31:31] FPS  20,  8803, 10196, -23009
+[17:31:32] FPS  19,  8803, 10196, -23009
+[17:31:34] FPS  19,  8803, 10196, -23009
+[17:31:35] FPS  19,  8803, 10196, -23009
+[17:31:37] FPS  19,  8803, 10196, -23009
+[17:31:39] FPS  19,  8803, 10196, -23009
+[17:31:40] FPS  19,  8803, 10196, -23009
+[17:31:42] FPS  19,  8803, 10196, -23009
+[17:31:43] FPS  19,  8803, 10196, -23009
+[17:31:45] FPS  19,  8803, 10196, -23009
+[17:31:47] FPS  20,  8803, 10196, -23009
+[17:31:48] FPS  20,  8803, 10196, -23009
+[17:31:49] FPS  21,  8803, 10196, -23009
+[17:31:51] FPS  20,  8803, 10196, -23009
+[17:31:53] FPS  19,  8803, 10196, -23009
+[17:31:54] FPS  19,  8803, 10196, -23009
+[17:31:56] FPS  20,  8803, 10196, -23009
+[17:31:57] FPS  19,  8803, 10196, -23009
+[17:31:59] FPS  19,  8803, 10196, -23009
+[17:32:00] FPS  20,  8803, 10196, -23009
+[17:32:02] FPS  20,  8803, 10196, -23009
+[17:32:03] FPS  19,  8803, 10196, -23009
+[17:32:05] FPS  20,  8803, 10196, -23009
+[17:32:07] FPS  19,  8803, 10196, -23009
+[17:32:08] FPS  20,  8803, 10196, -23009
+[17:32:10] FPS  19,  8803, 10196, -23009
+[17:32:11] FPS  20,  8803, 10196, -23009
+[17:32:13] FPS  20,  8803, 10196, -23009
+[17:32:14] FPS  20,  8803, 10196, -23009
+[17:32:16] FPS  20,  8803, 10196, -23009
+[17:32:17] FPS  20,  8803, 10196, -23009
+[17:32:19] FPS  20,  8803, 10196, -23009
+[17:32:20] FPS  20,  8803, 10196, -23009
+[17:32:22] FPS  19,  8803, 10196, -23009
+[17:32:23] FPS  20,  8803, 10196, -23009
+[17:32:25] FPS  20,  8803, 10196, -23009
+[17:32:26] FPS  20,  8803, 10196, -23009
+[17:32:28] FPS  20,  8803, 10196, -23009
+[17:32:29] FPS  19,  8803, 10196, -23009
+[17:32:31] FPS  20,  8803, 10196, -23009
+[17:32:32] FPS  19,  8803, 10196, -23009
+[17:32:34] FPS  20,  8803, 10196, -23009
+[17:32:35] FPS  20,  8803, 10196, -23009
+[17:32:37] FPS  20,  8803, 10196, -23009
+[17:32:38] FPS  20,  8803, 10196, -23009
+[17:32:40] FPS  20,  8803, 10196, -23009
+[17:32:41] FPS  19,  8803, 10196, -23009
+[17:32:43] FPS  20,  8803, 10196, -23009
+[17:32:44] FPS  20,  8803, 10196, -23009
+[17:32:46] FPS  20,  8803, 10196, -23009
+[17:32:47] FPS  19,  8803, 10196, -23009
+[17:32:49] FPS  20,  8803, 10196, -23009
+[17:32:50] FPS  20,  8803, 10196, -23009
+[17:32:52] FPS  20,  8803, 10196, -23009
+[17:32:53] FPS  20,  8803, 10196, -23009
+[17:32:55] FPS  20,  8803, 10196, -23009
+[17:32:57] FPS  20,  8803, 10196, -23009
+[17:32:58] FPS  20,  8803, 10196, -23009
+[17:33:00] FPS  19,  8803, 10196, -23009
+[17:33:01] FPS  20,  8803, 10196, -23009
+[17:33:03] FPS  20,  8803, 10196, -23009
+[17:33:04] FPS  20,  8803, 10196, -23009
+[17:33:06] FPS  20,  8803, 10196, -23009
+[17:33:07] FPS  20,  8803, 10196, -23009
+[17:33:09] FPS  20,  8803, 10196, -23009
+[17:33:10] FPS  20,  8803, 10196, -23009
+[17:33:12] FPS  20,  8803, 10196, -23009
+[17:33:13] FPS  20,  8803, 10196, -23009
+[17:33:15] FPS  20,  8803, 10196, -23009
+[17:33:16] FPS  20,  8803, 10196, -23009
+[17:33:18] FPS  20,  8803, 10196, -23009
+[17:33:19] FPS  20,  8803, 10196, -23009
+[17:33:21] FPS  20,  8803, 10196, -23009
+[17:33:22] FPS  20,  8803, 10196, -23009
+[17:33:24] FPS  20,  8803, 10196, -23009
+[17:33:25] FPS  19,  8803, 10196, -23009
+[17:33:27] FPS  20,  8803, 10196, -23009
+[17:33:28] FPS  20,  8803, 10196, -23009
+[17:33:30] FPS  20,  8803, 10196, -23009
+[17:33:31] FPS  20,  8803, 10196, -23009
+[17:33:33] FPS  20,  8803, 10196, -23009
+[17:33:34] FPS  20,  8803, 10196, -23009
+[17:33:36] FPS  20,  8803, 10196, -23009
+[17:33:37] FPS  19,  8803, 10196, -23009
+[17:33:39] FPS  20,  8803, 10196, -23009
+[17:33:40] FPS  20,  8803, 10196, -23009
+[17:33:42] FPS  20,  8803, 10196, -23009
+[17:33:43] FPS  20,  8803, 10196, -23009
+[17:33:45] FPS  20,  8803, 10196, -23009
+[17:33:46] FPS  20,  8803, 10196, -23009
+[17:33:48] FPS  20,  8803, 10196, -23009
+[17:33:49] FPS  20,  8803, 10196, -23009
+[17:33:51] FPS  20,  8803, 10196, -23009
+[17:33:52] FPS  20,  8803, 10196, -23009
+[17:33:54] FPS  20,  8803, 10196, -23009
+[17:33:55] FPS  20,  8803, 10196, -23009
+[17:33:57] FPS  20,  8803, 10196, -23009
+[17:33:58] FPS  20,  8803, 10196, -23009
+[17:34:00] FPS  20,  8803, 10196, -23009
+[17:34:02] FPS  20,  8803, 10196, -23009
+[17:34:03] FPS  20,  8803, 10196, -23009
+[17:34:05] FPS  20,  8803, 10196, -23009
+[17:34:06] FPS  20,  8803, 10196, -23009
+[17:34:07] FPS  20,  8803, 10196, -23009
+[17:34:09] FPS  20,  8803, 10196, -23009
+[17:34:10] FPS  20,  8803, 10196, -23009
+[17:34:12] FPS  20,  8803, 10196, -23009
+[17:34:13] FPS  20,  8803, 10196, -23009
+[17:34:15] FPS  20,  8803, 10196, -23009
+[17:34:16] FPS  20,  8803, 10196, -23009
+[17:34:18] FPS  20,  8803, 10196, -23009
+[17:34:20] FPS  20,  8803, 10196, -23009
+[17:34:21] FPS  20,  8803, 10196, -23009
+[17:34:23] FPS  20,  8803, 10196, -23009
+[17:34:24] FPS  20,  8803, 10196, -23009
+[17:34:26] FPS  20,  8803, 10196, -23009
+[17:34:27] FPS  20,  8803, 10196, -23009
+[17:34:29] FPS  20,  8803, 10196, -23009
+[17:34:30] FPS  19,  8803, 10196, -23009
+[17:34:32] FPS  21,  8803, 10196, -23009
+[17:34:33] FPS  20,  8803, 10196, -23009
+[17:34:35] FPS  20,  8803, 10196, -23009
+[17:34:36] FPS  20,  8803, 10196, -23009
+[17:34:38] FPS  20,  8803, 10196, -23009
+[17:34:39] FPS  20,  8803, 10196, -23009
+[17:34:41] FPS  20,  8803, 10196, -23009
+[17:34:42] FPS  20,  8803, 10196, -23009
+[17:34:44] FPS  20,  8803, 10196, -23009
+[17:34:45] FPS  20,  8803, 10196, -23009
+[17:34:47] FPS  20,  8803, 10196, -23009
+[17:34:48] FPS  20,  8803, 10196, -23009
+[17:34:50] FPS  20,  8803, 10196, -23009
+[17:34:51] FPS  20,  8803, 10196, -23009
+[17:34:53] FPS  20,  8803, 10196, -23009
+[17:34:54] FPS  20,  8803, 10196, -23009
+[17:34:56] FPS  20,  8803, 10196, -23009
+[17:34:57] FPS  20,  8803, 10196, -23009
+[17:34:59] FPS  20,  8803, 10196, -23009
+[17:35:00] FPS  20,  8803, 10196, -23009
+[17:35:02] FPS  20,  8803, 10196, -23009
+[17:35:03] FPS  20,  8803, 10196, -23009
+[17:35:05] FPS  20,  8803, 10196, -23009
+[17:35:06] FPS  20,  8803, 10196, -23009
+[17:35:08] FPS  20,  8803, 10196, -23009
+[17:35:09] FPS  20,  8803, 10196, -23009
+[17:35:11] FPS  20,  8803, 10196, -23009
+[17:35:12] FPS  20,  8803, 10196, -23009
+[17:35:14] FPS  20,  8803, 10196, -23009
+[17:35:15] FPS  20,  8803, 10196, -23009
+[17:35:17] FPS  20,  8803, 10196, -23009
+[17:35:18] FPS  20,  8803, 10196, -23009
+[17:35:20] FPS  20,  8803, 10196, -23009
+[17:35:21] FPS  20,  8803, 10196, -23009
+[17:35:23] FPS  20,  8803, 10196, -23009
+[17:35:24] FPS  20,  8803, 10196, -23009
+[17:35:26] FPS  20,  8803, 10196, -23009
+[17:35:27] FPS  20,  8803, 10196, -23009
+[17:35:29] FPS  20,  8803, 10196, -23009
+[17:35:30] FPS  20,  8803, 10196, -23009
+[17:35:32] FPS  20,  8803, 10196, -23009
+[17:35:33] FPS  20,  8803, 10196, -23009
+[17:35:35] FPS  20,  8803, 10196, -23009
+[17:35:36] FPS  20,  8803, 10196, -23009
+[17:35:38] FPS  20,  8803, 10196, -23009
+[17:35:39] FPS  20,  8803, 10196, -23009
+[17:35:41] FPS  20,  8803, 10196, -23009
+[17:35:42] FPS  20,  8803, 10196, -23009
+[17:35:44] FPS  20,  8803, 10196, -23009
+[17:35:45] FPS  20,  8803, 10196, -23009
+[17:35:47] FPS  20,  8803, 10196, -23009
+[17:35:48] FPS  20,  8803, 10196, -23009
+[17:35:50] FPS  20,  8803, 10196, -23009
+[17:35:51] FPS  20,  8803, 10196, -23009
+[17:35:53] FPS  20,  8803, 10196, -23009
+[17:35:54] FPS  20,  8803, 10196, -23009
+[17:35:56] FPS  20,  8803, 10196, -23009
+[17:35:57] FPS  20,  8803, 10196, -23009
+[17:35:59] FPS  20,  8803, 10196, -23009
+[17:36:00] FPS  20,  8803, 10196, -23009
+[17:36:02] FPS  20,  8803, 10196, -23009
+[17:36:03] FPS  20,  8803, 10196, -23009
+[17:36:05] FPS  20,  8803, 10196, -23009
+[17:36:06] FPS  20,  8803, 10196, -23009
+[17:36:08] FPS  21,  8803, 10196, -23009
+[17:36:09] FPS  20,  8803, 10196, -23009
+[17:36:10] FPS  20,  8803, 10196, -23009
+[17:36:12] FPS  20,  8803, 10196, -23009
+[17:36:13] FPS  20,  8803, 10196, -23009
+[17:36:15] FPS  21,  8803, 10196, -23009
+[17:36:16] FPS  20,  8803, 10196, -23009
+[17:36:18] FPS  20,  8803, 10196, -23009
+[17:36:19] FPS  20,  8803, 10196, -23009
+[17:36:21] FPS  20,  8803, 10196, -23009
+[17:36:22] FPS  20,  8803, 10196, -23009
+[17:36:24] FPS  20,  8803, 10196, -23009
+[17:36:25] FPS  20,  8803, 10196, -23009
+[17:36:27] FPS  20,  8803, 10196, -23009
+[17:36:28] FPS  20,  8803, 10196, -23009
+[17:36:30] FPS  20,  8803, 10196, -23009
+[17:36:31] FPS  20,  8803, 10196, -23009
+[17:36:33] FPS  20,  8803, 10196, -23009
+[17:36:34] FPS  20,  8803, 10196, -23009
+[17:36:36] FPS  20,  8803, 10196, -23009
+[17:36:37] FPS  20,  8803, 10196, -23009
+[17:36:39] FPS  20,  8803, 10196, -23009
+[17:36:40] FPS  20,  8803, 10196, -23009
+[17:36:42] FPS  20,  8803, 10196, -23009
+[17:36:43] FPS  20,  8803, 10196, -23009
+[17:36:45] FPS  20,  8803, 10196, -23009
+[17:36:46] FPS  20,  8803, 10196, -23009
+[17:36:48] FPS  20,  8803, 10196, -23009
+[17:36:49] FPS  21,  8803, 10196, -23009
+[17:36:50] FPS  20,  8803, 10196, -23009
+[17:36:52] FPS  21,  8803, 10196, -23009
+[17:36:53] FPS  20,  8803, 10196, -23009
+[17:36:55] FPS  20,  8803, 10196, -23009
+[17:36:56] FPS  20,  8803, 10196, -23009
+[17:36:58] FPS  20,  8803, 10196, -23009
+[17:36:59] FPS  20,  8803, 10196, -23009
+[17:37:01] FPS  20,  8803, 10196, -23009
+[17:37:02] FPS  20,  8803, 10196, -23009
+[17:37:04] FPS  21,  8803, 10196, -23009
+[17:37:05] FPS  20,  8803, 10196, -23009
+[17:37:07] FPS  20,  8803, 10196, -23009
+[17:37:08] FPS  20,  8803, 10196, -23009
+[17:37:10] FPS  21,  8803, 10196, -23009
+[17:37:11] FPS  20,  8803, 10196, -23009
+[17:37:13] FPS  20,  8803, 10196, -23009
+[17:37:14] FPS  20,  8803, 10196, -23009
+[17:37:16] FPS  21,  8803, 10196, -23009
+[17:37:17] FPS  20,  8803, 10196, -23009
+[17:37:19] FPS  20,  8803, 10196, -23009
+[17:37:20] FPS  20,  8803, 10196, -23009
+[17:37:22] FPS  20,  8803, 10196, -23009
+[17:37:23] FPS  20,  8803, 10196, -23009
+[17:37:24] FPS  21,  8803, 10196, -23009
+[17:37:26] FPS  21,  8803, 10196, -23009
+[17:37:27] FPS  20,  8803, 10196, -23009
+[17:37:29] FPS  21,  8803, 10196, -23009
+[17:37:30] FPS  21,  8803, 10196, -23009
+[17:37:32] FPS  21,  8803, 10196, -23009
+[17:37:33] FPS  21,  8803, 10196, -23009
+[17:37:35] FPS  21,  8803, 10196, -23009
+[17:37:36] FPS  21,  8803, 10196, -23009
+[17:37:38] FPS  20,  8803, 10196, -23009
+[17:37:39] FPS  20,  8803, 10196, -23009
+[17:37:40] FPS  21,  8803, 10196, -23009
+[17:37:42] FPS  20,  8803, 10196, -23009
+[17:37:43] FPS  20,  8803, 10196, -23009
+[17:37:45] FPS  20,  8803, 10196, -23009
+[17:37:46] FPS  21,  8803, 10196, -23009
+[17:37:48] FPS  20,  8803, 10196, -23009
+[17:37:49] FPS  20,  8803, 10196, -23009
+[17:37:51] FPS  21,  8803, 10196, -23009
+[17:37:52] FPS  20,  8803, 10196, -23009
+[17:37:54] FPS  20,  8803, 10196, -23009
+[17:37:55] FPS  20,  8803, 10196, -23009
+[17:37:57] FPS  21,  8803, 10196, -23009
+[17:37:58] FPS  20,  8803, 10196, -23009
+[17:38:00] FPS  20,  8803, 10196, -23009
+[17:38:01] FPS  20,  8803, 10196, -23009
+[17:38:03] FPS  20,  8803, 10196, -23009
+[17:38:04] FPS  20,  8803, 10196, -23009
+[17:38:06] FPS  20,  8803, 10196, -23009
+[17:38:07] FPS  20,  8803, 10196, -23009
+[17:38:08] FPS  20,  8803, 10196, -23009
+[17:38:10] FPS  21,  8803, 10196, -23009
+[17:38:11] FPS  20,  8803, 10196, -23009
+[17:38:13] FPS  20,  8803, 10196, -23009
+[17:38:14] FPS  21,  8803, 10196, -23009
+[17:38:16] FPS  20,  8803, 10196, -23009
+[17:38:17] FPS  21,  8803, 10196, -23009
+[17:38:19] FPS  20,  8803, 10196, -23009
+[17:38:20] FPS  20,  8803, 10196, -23009
+[17:38:22] FPS  20,  8803, 10196, -23009
+[17:38:23] FPS  21,  8803, 10196, -23009
+[17:38:25] FPS  20,  8803, 10196, -23009
+[17:38:26] FPS  20,  8803, 10196, -23009
+[17:38:27] FPS  21,  8803, 10196, -23009
+[17:38:29] FPS  21,  8803, 10196, -23009
+[17:38:30] FPS  20,  8803, 10196, -23009
+[17:38:32] FPS  21,  8803, 10196, -23009
+[17:38:33] FPS  20,  8803, 10196, -23009
+[17:38:35] FPS  20,  8803, 10196, -23009
+[17:38:36] FPS  20,  8803, 10196, -23009
+[17:38:38] FPS  21,  8803, 10196, -23009
+[17:38:39] FPS  20,  8803, 10196, -23009
+[17:38:41] FPS  20,  8803, 10196, -23009
+[17:38:42] FPS  21,  8803, 10196, -23009
+[17:38:44] FPS  20,  8803, 10196, -23009
+[17:38:45] FPS  20,  8803, 10196, -23009
+[17:38:47] FPS  20,  8803, 10196, -23009
+[17:38:48] FPS  21,  8803, 10196, -23009
+[17:38:50] FPS  20,  8803, 10196, -23009
+[17:38:51] FPS  20,  8803, 10196, -23009
+[17:38:53] FPS  21,  8803, 10196, -23009
+[17:38:54] FPS  20,  8803, 10196, -23009
+[17:38:55] FPS  20,  8803, 10196, -23009
+[17:38:57] FPS  21,  8803, 10196, -23009
+[17:38:58] FPS  20,  8803, 10196, -23009
+[17:39:00] FPS  20,  8803, 10196, -23009
+[17:39:01] FPS  20,  8803, 10196, -23009
+[17:39:03] FPS  21,  8803, 10196, -23009
+[17:39:04] FPS  21,  8803, 10196, -23009
+[17:39:06] FPS  21,  8803, 10196, -23009
+[17:39:07] FPS  20,  8803, 10196, -23009
+[17:39:09] FPS  20,  8803, 10196, -23009
+[17:39:10] FPS  20,  8803, 10196, -23009
+[17:39:12] FPS  20,  8803, 10196, -23009
+[17:39:13] FPS  20,  8803, 10196, -23009
+[17:39:15] FPS  20,  8803, 10196, -23009
+[17:39:16] FPS  20,  8803, 10196, -23009
+[17:39:18] FPS  20,  8803, 10196, -23009
+[17:39:19] FPS  21,  8803, 10196, -23009
+[17:39:20] FPS  20,  8803, 10196, -23009
+[17:39:22] FPS  20,  8803, 10196, -23009
+[17:39:23] FPS  20,  8803, 10196, -23009
+[17:39:25] FPS  20,  8803, 10196, -23009
+[17:39:26] FPS  20,  8803, 10196, -23009
+[17:39:28] FPS  21,  8803, 10196, -23009
+[17:39:29] FPS  20,  8803, 10196, -23009
+[17:39:31] FPS  20,  8803, 10196, -23009
+[17:39:32] FPS  21,  8803, 10196, -23009
+[17:39:34] FPS  20,  8803, 10196, -23009
+[17:39:35] FPS  20,  8803, 10196, -23009
+[17:39:37] FPS  21,  8803, 10196, -23009
+[17:39:38] FPS  20,  8803, 10196, -23009
+[17:39:40] FPS  20,  8803, 10196, -23009
+[17:39:41] FPS  21,  8803, 10196, -23009
+[17:39:42] FPS  21,  8803, 10196, -23009
+[17:39:44] FPS  20,  8803, 10196, -23009
+[17:39:45] FPS  21,  8803, 10196, -23009
+[17:39:47] FPS  20,  8803, 10196, -23009
+[17:39:48] FPS  20,  8803, 10196, -23009
+[17:39:50] FPS  21,  8803, 10196, -23009
+[17:39:51] FPS  20,  8803, 10196, -23009
+[17:39:53] FPS  20,  8803, 10196, -23009
+[17:39:54] FPS  21,  8803, 10196, -23009
+[17:39:56] FPS  20,  8803, 10196, -23009
+[17:39:57] FPS  20,  8803, 10196, -23009
+[17:39:59] FPS  20,  8803, 10196, -23009
+[17:40:00] FPS  21,  8803, 10196, -23009
+[17:40:02] FPS  20,  8803, 10196, -23009
+[17:40:03] FPS  20,  8803, 10196, -23009
+[17:40:05] FPS  20,  8803, 10196, -23009
+[17:40:06] FPS  21,  8803, 10196, -23009
+[17:40:07] FPS  20,  8803, 10196, -23009
+[17:40:09] FPS  20,  8803, 10196, -23009
+[17:40:10] FPS  21,  8803, 10196, -23009
+[17:40:12] FPS  20,  8803, 10196, -23009
+[17:40:13] FPS  20,  8803, 10196, -23009
+[17:40:15] FPS  21,  8803, 10196, -23009
+[17:40:16] FPS  20,  8803, 10196, -23009
+[17:40:18] FPS  20,  8803, 10196, -23009
+[17:40:19] FPS  20,  8803, 10196, -23009
+[17:40:21] FPS  20,  8803, 10196, -23009
+[17:40:22] FPS  20,  8803, 10196, -23009
+[17:40:24] FPS  20,  8803, 10196, -23009
+[17:40:25] FPS  20,  8803, 10196, -23009
+[17:40:27] FPS  21,  8803, 10196, -23009
+[17:40:28] FPS  21,  8803, 10196, -23009
+[17:40:29] FPS  21,  8803, 10196, -23009
+[17:40:31] FPS  20,  8803, 10196, -23009
+[17:40:32] FPS  20,  8803, 10196, -23009
+[17:40:34] FPS  21,  8803, 10196, -23009
+[17:40:35] FPS  20,  8803, 10196, -23009
+[17:40:37] FPS  21,  8803, 10196, -23009
+[17:40:38] FPS  20,  8803, 10196, -23009
+[17:40:40] FPS  20,  8803, 10196, -23009
+[17:40:41] FPS  21,  8803, 10196, -23009
+[17:40:43] FPS  20,  8803, 10196, -23009
+[17:40:44] FPS  20,  8803, 10196, -23009
+[17:40:46] FPS  21,  8803, 10196, -23009
+[17:40:47] FPS  20,  8803, 10196, -23009
+[17:40:49] FPS  20,  8803, 10196, -23009
+[17:40:50] FPS  21,  8803, 10196, -23009
+[17:40:51] FPS  20,  8803, 10196, -23009
+[17:40:53] FPS  20,  8803, 10196, -23009
+[17:40:54] FPS  20,  8803, 10196, -23009
+[17:40:56] FPS  20,  8803, 10196, -23009
+[17:40:57] FPS  20,  8803, 10196, -23009
+[17:40:59] FPS  21,  8803, 10196, -23009
+[17:41:00] FPS  20,  8803, 10196, -23009
+[17:41:02] FPS  21,  8803, 10196, -23009
+[17:41:03] FPS  20,  8803, 10196, -23009
+[17:41:05] FPS  20,  8803, 10196, -23009
+[17:41:06] FPS  21,  8803, 10196, -23009
+[17:41:08] FPS  21,  8803, 10196, -23009
+[17:41:09] FPS  21,  8803, 10196, -23009
+[17:41:11] FPS  20,  8803, 10196, -23009
+[17:41:12] FPS  20,  8803, 10196, -23009
+[17:41:13] FPS  20,  8803, 10196, -23009
+[17:41:15] FPS  21,  8803, 10196, -23009
+[17:41:16] FPS  20,  8803, 10196, -23009
+[17:41:18] FPS  20,  8803, 10196, -23009
+[17:41:19] FPS  20,  8803, 10196, -23009
+[17:41:21] FPS  20,  8803, 10196, -23009
+[17:41:22] FPS  20,  8803, 10196, -23009
+[17:41:24] FPS  21,  8803, 10196, -23009
+[17:41:25] FPS  20,  8803, 10196, -23009
+[17:41:27] FPS  21,  8803, 10196, -23009
+[17:41:28] FPS  20,  8803, 10196, -23009
+[17:41:30] FPS  21,  8803, 10196, -23009
+[17:41:31] FPS  21,  8803, 10196, -23009
+[17:41:33] FPS  20,  8803, 10196, -23009
+[17:41:34] FPS  20,  8803, 10196, -23009
+[17:41:36] FPS  20,  8803, 10196, -23009
+[17:41:37] FPS  20,  8803, 10196, -23009
+[17:41:38] FPS  20,  8803, 10196, -23009
+[17:41:40] FPS  20,  8803, 10196, -23009
+[17:41:41] FPS  20,  8803, 10196, -23009
+[17:41:43] FPS  21,  8803, 10196, -23009
+[17:41:44] FPS  20,  8803, 10196, -23009
+[17:41:46] FPS  20,  8803, 10196, -23009
+[17:41:47] FPS  21,  8803, 10196, -23009
+[17:41:49] FPS  20,  8803, 10196, -23009
+[17:41:50] FPS  20,  8803, 10196, -23009
+[17:41:52] FPS  21,  8803, 10196, -23009
+[17:41:53] FPS  20,  8803, 10196, -23009
+[17:41:55] FPS  20,  8803, 10196, -23009
+[17:41:56] FPS  21,  8803, 10196, -23009
+[17:41:58] FPS  21,  8803, 10196, -23009
+[17:41:59] FPS  20,  8803, 10196, -23009
+[17:42:01] FPS  21,  8803, 10196, -23009
+[17:42:02] FPS  20,  8803, 10196, -23009
+[17:42:03] FPS  21,  8803, 10196, -23009
+[17:42:05] FPS  21,  8803, 10196, -23009
+[17:42:06] FPS  20,  8803, 10196, -23009
+[17:42:08] FPS  20,  8803, 10196, -23009
+[17:42:09] FPS  21,  8803, 10196, -23009
+[17:42:11] FPS  20,  8803, 10196, -23009
+[17:42:12] FPS  20,  8803, 10196, -23009
+[17:42:14] FPS  21,  8803, 10196, -23009
+[17:42:15] FPS  20,  8803, 10196, -23009
+[17:42:17] FPS  20,  8803, 10196, -23009
+[17:42:18] FPS  21,  8803, 10196, -23009
+[17:42:20] FPS  20,  8803, 10196, -23009
+[17:42:21] FPS  20,  8803, 10196, -23009
+[17:42:23] FPS  20,  8803, 10196, -23009
+[17:42:24] FPS  21,  8803, 10196, -23009
+[17:42:25] FPS  21,  8803, 10196, -23009
+[17:42:27] FPS  21,  8803, 10196, -23009
+[17:42:28] FPS  20,  8803, 10196, -23009
+[17:42:30] FPS  20,  8803, 10196, -23009
+[17:42:31] FPS  21,  8803, 10196, -23009
+[17:42:33] FPS  20,  8803, 10196, -23009
+[17:42:34] FPS  20,  8803, 10196, -23009
+[17:42:36] FPS  21,  8803, 10196, -23009
+[17:42:37] FPS  20,  8803, 10196, -23009
+[17:42:39] FPS  20,  8803, 10196, -23009
+[17:42:40] FPS  21,  8803, 10196, -23009
+[17:42:42] FPS  20,  8803, 10196, -23009
+[17:42:43] FPS  20,  8803, 10196, -23009
+[17:42:45] FPS  21,  8803, 10196, -23009
+[17:42:46] FPS  20,  8803, 10196, -23009
+[17:42:47] FPS  20,  8803, 10196, -23009
+[17:42:49] FPS  21,  8803, 10196, -23009
+[17:42:50] FPS  20,  8803, 10196, -23009
+[17:42:52] FPS  21,  8803, 10196, -23009
+[17:42:53] FPS  20,  8803, 10196, -23009
+[17:42:55] FPS  20,  8803, 10196, -23009
+[17:42:56] FPS  21,  8803, 10196, -23009
+[17:42:58] FPS  20,  8803, 10196, -23009
+[17:42:59] FPS  20,  8803, 10196, -23009
+[17:43:01] FPS  21,  8803, 10196, -23009
+[17:43:02] FPS  20,  8803, 10196, -23009
+[17:43:04] FPS  20,  8803, 10196, -23009
+[17:43:05] FPS  21,  8803, 10196, -23009
+[17:43:06] FPS  21,  8803, 10196, -23009
+[17:43:08] FPS  20,  8803, 10196, -23009
+[17:43:09] FPS  20,  8803, 10196, -23009
+[17:43:11] FPS  21,  8803, 10196, -23009
+[17:43:12] FPS  21,  8803, 10196, -23009
+[17:43:14] FPS  20,  8803, 10196, -23009
+[17:43:15] FPS  20,  8803, 10196, -23009
+[17:43:17] FPS  20,  8803, 10196, -23009
+[17:43:18] FPS  21,  8803, 10196, -23009
+[17:43:20] FPS  20,  8803, 10196, -23009
+[17:43:21] FPS  20,  8803, 10196, -23009
+[17:43:23] FPS  21,  8803, 10196, -23009
+[17:43:24] FPS  20,  8803, 10196, -23009
+[17:43:26] FPS  20,  8803, 10196, -23009
+[17:43:27] FPS  21,  8803, 10196, -23009
+[17:43:28] FPS  20,  8803, 10196, -23009
+[17:43:30] FPS  20,  8803, 10196, -23009
+[17:43:31] FPS  21,  8803, 10196, -23009
+[17:43:33] FPS  20,  8803, 10196, -23009
+[17:43:34] FPS  20,  8803, 10196, -23009
+[17:43:36] FPS  20,  8803, 10196, -23009
+[17:43:37] FPS  20,  8803, 10196, -23009
+[17:43:39] FPS  20,  8803, 10196, -23009
+[17:43:40] FPS  21,  8803, 10196, -23009
+[17:43:42] FPS  21,  8803, 10196, -23009
+[17:43:43] FPS  20,  8803, 10196, -23009
+[17:43:45] FPS  21,  8803, 10196, -23009
+[17:43:46] FPS  21,  8803, 10196, -23009
+[17:43:48] FPS  21,  8803, 10196, -23009
+[17:43:49] FPS  20,  8803, 10196, -23009
+[17:43:50] FPS  21,  8803, 10196, -23009
+[17:43:52] FPS  20,  8803, 10196, -23009
+[17:43:53] FPS  21,  8803, 10196, -23009
+[17:43:55] FPS  20,  8803, 10196, -23009
+[17:43:56] FPS  20,  8803, 10196, -23009
+[17:43:58] FPS  20,  8803, 10196, -23009
+[17:43:59] FPS  20,  8803, 10196, -23009
+[17:44:01] FPS  20,  8803, 10196, -23009
+[17:44:02] FPS  20,  8803, 10196, -23009
+[17:44:04] FPS  20,  8803, 10196, -23009
+[17:44:05] FPS  21,  8803, 10196, -23009
+[17:44:07] FPS  20,  8803, 10196, -23009
+[17:44:08] FPS  20,  8803, 10196, -23009
+[17:44:10] FPS  21,  8803, 10196, -23009
+[17:44:11] FPS  20,  8803, 10196, -23009
+[17:44:13] FPS  21,  8803, 10196, -23009
+[17:44:14] FPS  20,  8803, 10196, -23009
+[17:44:15] FPS  20,  8803, 10196, -23009
+[17:44:17] FPS  21,  8803, 10196, -23009
+[17:44:18] FPS  20,  8803, 10196, -23009
+[17:44:20] FPS  20,  8803, 10196, -23009
+[17:44:21] FPS  20,  8803, 10196, -23009
+[17:44:23] FPS  20,  8803, 10196, -23009
+[17:44:24] FPS  20,  8803, 10196, -23009
+[17:44:26] FPS  20,  8803, 10196, -23009
+[17:44:27] FPS  21,  8803, 10196, -23009
+[17:44:29] FPS  20,  8803, 10196, -23009
+[17:44:30] FPS  20,  8803, 10196, -23009
+[17:44:32] FPS  20,  8803, 10196, -23009
+[17:44:33] FPS  20,  8803, 10196, -23009
+[17:44:35] FPS  20,  8803, 10196, -23009
+[17:44:36] FPS  21,  8803, 10196, -23009
+[17:44:37] FPS  20,  8803, 10196, -23009
+[17:44:39] FPS  20,  8803, 10196, -23009
+[17:44:40] FPS  21,  8803, 10196, -23009
+[17:44:42] FPS  20,  8803, 10196, -23009
+[17:44:43] FPS  20,  8803, 10196, -23009
+[17:44:45] FPS  21,  8803, 10196, -23009
+[17:44:46] FPS  20,  8803, 10196, -23009
+[17:44:48] FPS  21,  8803, 10196, -23009
+[17:44:49] FPS  20,  8803, 10196, -23009
+[17:44:51] FPS  21,  8803, 10196, -23009
+[17:44:52] FPS  20,  8803, 10196, -23009
+[17:44:54] FPS  20,  8803, 10196, -23009
+[17:44:55] FPS  20,  8803, 10196, -23009
+[17:44:56] FPS  21,  8803, 10196, -23009
+[17:44:58] FPS  20,  8803, 10196, -23009
+[17:44:59] FPS  20,  8803, 10196, -23009
+[17:45:01] FPS  21,  8803, 10196, -23009
+[17:45:02] FPS  20,  8803, 10196, -23009
+[17:45:04] FPS  20,  8803, 10196, -23009
+[17:45:05] FPS  21,  8803, 10196, -23009
+[17:45:07] FPS  20,  8803, 10196, -23009
+[17:45:08] FPS  20,  8803, 10196, -23009
+[17:45:10] FPS  20,  8803, 10196, -23009
+[17:45:11] FPS  21,  8803, 10196, -23009
+[17:45:13] FPS  20,  8803, 10196, -23009
+[17:45:14] FPS  20,  8803, 10196, -23009
+[17:45:16] FPS  21,  8803, 10196, -23009
+[17:45:17] FPS  20,  8803, 10196, -23009
+[17:45:19] FPS  20,  8803, 10196, -23009
+[17:45:20] FPS  20,  8803, 10196, -23009
+[17:45:22] FPS  20,  8803, 10196, -23009
+[17:45:23] FPS  20,  8803, 10196, -23009
+[17:45:25] FPS  20,  8803, 10196, -23009
+[17:45:26] FPS  20,  8803, 10196, -23009
+[17:45:27] FPS  21,  8803, 10196, -23009
+[17:45:29] FPS  20,  8803, 10196, -23009
+[17:45:30] FPS  20,  8803, 10196, -23009
+[17:45:32] FPS  20,  8803, 10196, -23009
+[17:45:33] FPS  20,  8803, 10196, -23009
+[17:45:35] FPS  20,  8803, 10196, -23009
+[17:45:36] FPS  20,  8803, 10196, -23009
+[17:45:38] FPS  20,  8803, 10196, -23009
+[17:45:39] FPS  20,  8803, 10196, -23009
+[17:45:41] FPS  20,  8803, 10196, -23009
+[17:45:42] FPS  20,  8803, 10196, -23009
+[17:45:44] FPS  20,  8803, 10196, -23009
+[17:45:45] FPS  20,  8803, 10196, -23009
+[17:45:47] FPS  20,  8803, 10196, -23009
+[17:45:48] FPS  20,  8803, 10196, -23009
+[17:45:50] FPS  20,  8803, 10196, -23009
+[17:45:51] FPS  20,  8803, 10196, -23009
+[17:45:53] FPS  20,  8803, 10196, -23009
+[17:45:54] FPS  20,  8803, 10196, -23009
+[17:45:56] FPS  20,  8803, 10196, -23009
+[17:45:57] FPS  20,  8803, 10196, -23009
+[17:45:59] FPS  21,  8803, 10196, -23009
+[17:46:00] FPS  20,  8803, 10196, -23009
+[17:46:02] FPS  20,  8803, 10196, -23009
+[17:46:03] FPS  20,  8803, 10196, -23009
+[17:46:05] FPS  21,  8803, 10196, -23009
+[17:46:06] FPS  20,  8803, 10196, -23009
+[17:46:07] FPS  20,  8803, 10196, -23009
+[17:46:09] FPS  20,  8803, 10196, -23009
+[17:46:10] FPS  20,  8803, 10196, -23009
+[17:46:12] FPS  20,  8803, 10196, -23009
+[17:46:13] FPS  21,  8803, 10196, -23009
+[17:46:15] FPS  21,  8803, 10196, -23009
+[17:46:16] FPS  20,  8803, 10196, -23009
+[17:46:18] FPS  20,  8803, 10196, -23009
+[17:46:19] FPS  20,  8803, 10196, -23009
+[17:46:21] FPS  20,  8803, 10196, -23009
+[17:46:22] FPS  20,  8803, 10196, -23009
+[17:46:24] FPS  20,  8803, 10196, -23009
+[17:46:25] FPS  20,  8803, 10196, -23009
+[17:46:27] FPS  21,  8803, 10196, -23009
+[17:46:28] FPS  20,  8803, 10196, -23009
+[17:46:30] FPS  20,  8803, 10196, -23009
+[17:46:31] FPS  20,  8803, 10196, -23009
+[17:46:33] FPS  20,  8803, 10196, -23009
+[17:46:34] FPS  20,  8803, 10196, -23009
+[17:46:36] FPS  20,  8803, 10196, -23009
+[17:46:37] FPS  20,  8803, 10196, -23009
+[17:46:38] FPS  20,  8803, 10196, -23009
+[17:46:40] FPS  20,  8803, 10196, -23009
+[17:46:41] FPS  20,  8803, 10196, -23009
+[17:46:43] FPS  20,  8803, 10196, -23009
+[17:46:44] FPS  21,  8803, 10196, -23009
+[17:46:46] FPS  20,  8803, 10196, -23009
+[17:46:47] FPS  20,  8803, 10196, -23009
+[17:46:49] FPS  20,  8803, 10196, -23009
+[17:46:50] FPS  20,  8803, 10196, -23009
+[17:46:52] FPS  20,  8803, 10196, -23009
+[17:46:53] FPS  20,  8803, 10196, -23009
+[17:46:55] FPS  20,  8803, 10196, -23009
+[17:46:56] FPS  20,  8803, 10196, -23009
+[17:46:58] FPS  20,  8803, 10196, -23009
+[17:46:59] FPS  20,  8803, 10196, -23009
+[17:47:01] FPS  20,  8803, 10196, -23009
+[17:47:02] FPS  20,  8803, 10196, -23009
+[17:47:04] FPS  20,  8803, 10196, -23009
+[17:47:05] FPS  20,  8803, 10196, -23009
+[17:47:07] FPS  20,  8803, 10196, -23009
+[17:47:08] FPS  20,  8803, 10196, -23009
+[17:47:10] FPS  20,  8803, 10196, -23009
+[17:47:11] FPS  20,  8803, 10196, -23009
+[17:47:13] FPS  20,  8803, 10196, -23009
+[17:47:14] FPS  20,  8803, 10196, -23009
+[17:47:16] FPS  20,  8803, 10196, -23009
+[17:47:17] FPS  20,  8803, 10196, -23009
+[17:47:19] FPS  20,  8803, 10196, -23009
+[17:47:20] FPS  20,  8803, 10196, -23009
+[17:47:22] FPS  20,  8803, 10196, -23009
+[17:47:23] FPS  20,  8803, 10196, -23009
+[17:47:25] FPS  20,  8803, 10196, -23009
+[17:47:26] FPS  20,  8803, 10196, -23009
+[17:47:28] FPS  20,  8803, 10196, -23009
+[17:47:29] FPS  20,  8803, 10196, -23009
+[17:47:31] FPS  20,  8803, 10196, -23009
+[17:47:32] FPS  20,  8803, 10196, -23009
+[17:47:34] FPS  20,  8803, 10196, -23009
+[17:47:35] FPS  20,  8803, 10196, -23009
+[17:47:37] FPS  20,  8803, 10196, -23009
+[17:47:38] FPS  20,  8803, 10196, -23009
+[17:47:40] FPS  20,  8803, 10196, -23009
+[17:47:41] FPS  20,  8803, 10196, -23009
+[17:47:43] FPS  20,  8803, 10196, -23009
+[17:47:44] FPS  20,  8803, 10196, -23009
+[17:47:46] FPS  20,  8803, 10196, -23009
+[17:47:47] FPS  20,  8803, 10196, -23009
+[17:47:49] FPS  20,  8803, 10196, -23009
+[17:47:50] FPS  20,  8803, 10196, -23009
+[17:47:52] FPS  19,  8803, 10196, -23009
+[17:47:53] FPS  20,  8803, 10196, -23009
+[17:47:55] FPS  20,  8803, 10196, -23009
+[17:47:56] FPS  20,  8803, 10196, -23009
+[17:47:58] FPS  20,  8803, 10196, -23009
+[17:47:59] FPS  20,  8803, 10196, -23009
+[17:48:01] FPS  20,  8803, 10196, -23009
+[17:48:02] FPS  20,  8803, 10196, -23009
+[17:48:04] FPS  20,  8803, 10196, -23009
+[17:48:05] FPS  20,  8803, 10196, -23009
+[17:48:07] FPS  20,  8803, 10196, -23009
+[17:48:08] FPS  20,  8803, 10196, -23009
+[17:48:10] FPS  20,  8803, 10196, -23009
+[17:48:11] FPS  20,  8803, 10196, -23009
+[17:48:13] FPS  20,  8803, 10196, -23009
+[17:48:14] FPS  20,  8803, 10196, -23009
+[17:48:16] FPS  20,  8803, 10196, -23009
+[17:48:17] FPS  20,  8803, 10196, -23009
+[17:48:19] FPS  20,  8803, 10196, -23009
+[17:48:21] FPS  20,  8803, 10196, -23009
+[17:48:22] FPS  20,  8803, 10196, -23009
+[17:48:24] FPS  20,  8803, 10196, -23009
+[17:48:25] FPS  20,  8803, 10196, -23009
+[17:48:27] FPS  20,  8803, 10196, -23009
+[17:48:28] FPS  20,  8803, 10196, -23009
+[17:48:30] FPS  20,  8803, 10196, -23009
+[17:48:31] FPS  20,  8803, 10196, -23009
+[17:48:33] FPS  20,  8803, 10196, -23009
+[17:48:34] FPS  20,  8803, 10196, -23009
+[17:48:36] FPS  20,  8803, 10196, -23009
+[17:48:37] FPS  20,  8803, 10196, -23009
+[17:48:39] FPS  20,  8803, 10196, -23009
+[17:48:40] FPS  20,  8803, 10196, -23009
+[17:48:42] FPS  19,  8803, 10196, -23009
+[17:48:43] FPS  21,  8803, 10196, -23009
+[17:48:45] FPS  20,  8803, 10196, -23009
+[17:48:46] FPS  20,  8803, 10196, -23009
+[17:48:48] FPS  20,  8803, 10196, -23009
+[17:48:49] FPS  20,  8803, 10196, -23009
+[17:48:51] FPS  20,  8803, 10196, -23009
+[17:48:52] FPS  20,  8803, 10196, -23009
+[17:48:54] FPS  20,  8803, 10196, -23009
+[17:48:55] FPS  20,  8803, 10196, -23009
+[17:48:57] FPS  20,  8803, 10196, -23009
+[17:48:58] FPS  20,  8803, 10196, -23009
+[17:49:00] FPS  19,  8803, 10196, -23009
+[17:49:02] FPS  20,  8803, 10196, -23009
+[17:49:03] FPS  20,  8803, 10196, -23009
+[17:49:05] FPS  20,  8803, 10196, -23009
+[17:49:06] FPS  20,  8803, 10196, -23009
+[17:49:08] FPS  20,  8803, 10196, -23009
+[17:49:09] FPS  20,  8803, 10196, -23009
+[17:49:11] FPS  20,  8803, 10196, -23009
+[17:49:12] FPS  19,  8803, 10196, -23009
+[17:49:14] FPS  20,  8803, 10196, -23009
+[17:49:15] FPS  20,  8803, 10196, -23009
+[17:49:17] FPS  19,  8803, 10196, -23009
+[17:49:18] FPS  20,  8803, 10196, -23009
+[17:49:20] FPS  20,  8803, 10196, -23009
+[17:49:21] FPS  20,  8803, 10196, -23009
+[17:49:23] FPS  20,  8803, 10196, -23009
+[17:49:24] FPS  20,  8803, 10196, -23009
+[17:49:26] FPS  20,  8803, 10196, -23009
+[17:49:27] FPS  20,  8803, 10196, -23009
+[17:49:29] FPS  20,  8803, 10196, -23009
+[17:49:30] FPS  20,  8803, 10196, -23009
+[17:49:32] FPS  20,  8803, 10196, -23009
+[17:49:33] FPS  19,  8803, 10196, -23009
+[17:49:35] FPS  20,  8803, 10196, -23009
+[17:49:36] FPS  20,  8803, 10196, -23009
+[17:49:38] FPS  20,  8803, 10196, -23009
+[17:49:40] FPS  20,  8803, 10196, -23009
+[17:49:41] FPS  20,  8803, 10196, -23009
+[17:49:43] FPS  20,  8803, 10196, -23009
+[17:49:44] FPS  20,  8803, 10196, -23009
+[17:49:46] FPS  20,  8803, 10196, -23009
+[17:49:47] FPS  20,  8803, 10196, -23009
+[17:49:49] FPS  20,  8803, 10196, -23009
+[17:49:50] FPS  20,  8803, 10196, -23009
+[17:49:52] FPS  20,  8803, 10196, -23009
+[17:49:53] FPS  20,  8803, 10196, -23009
+[17:49:55] FPS  20,  8803, 10196, -23009
+[17:49:56] FPS  20,  8803, 10196, -23009
+[17:49:58] FPS  20,  8803, 10196, -23009
+[17:49:59] FPS  19,  8803, 10196, -23009
+[17:50:01] FPS  19,  8803, 10196, -23009
+[17:50:02] FPS  20,  8803, 10196, -23009
+[17:50:04] FPS  20,  8803, 10196, -23009
+[17:50:05] FPS  20,  8803, 10196, -23009
+[17:50:07] FPS  20,  8803, 10196, -23009
+[17:50:08] FPS  20,  8803, 10196, -23009
+[17:50:10] FPS  20,  8803, 10196, -23009
+[17:50:11] FPS  19,  8803, 10196, -23009
+[17:50:13] FPS  20,  8803, 10196, -23009
+[17:50:14] FPS  20,  8803, 10196, -23009
+[17:50:16] FPS  20,  8803, 10196, -23009
+[17:50:17] FPS  20,  8803, 10196, -23009
+[17:50:19] FPS  20,  8803, 10196, -23009
+[17:50:21] FPS  20,  8803, 10196, -23009
+[17:50:22] FPS  20,  8803, 10196, -23009
+[17:50:24] FPS  20,  8803, 10196, -23009
+[17:50:25] FPS  19,  8803, 10196, -23009
+[17:50:27] FPS  20,  8803, 10196, -23009
+[17:50:28] FPS  20,  8803, 10196, -23009
+[17:50:30] FPS  19,  8803, 10196, -23009
+[17:50:31] FPS  19,  8803, 10196, -23009
+[17:50:33] FPS  20,  8803, 10196, -23009
+[17:50:34] FPS  19,  8803, 10196, -23009
+[17:50:36] FPS  20,  8803, 10196, -23009
+[17:50:37] FPS  20,  8803, 10196, -23009
+[17:50:39] FPS  20,  8803, 10196, -23009
+[17:50:40] FPS  20,  8803, 10196, -23009
+[17:50:42] FPS  20,  8803, 10196, -23009
+[17:50:44] FPS  20,  8803, 10196, -23009
+[17:50:45] FPS  20,  8803, 10196, -23009
+[17:50:47] FPS  20,  8803, 10196, -23009
+[17:50:48] FPS  19,  8803, 10196, -23009
+[17:50:50] FPS  19,  8803, 10196, -23009
+[17:50:51] FPS  20,  8803, 10196, -23009
+[17:50:53] FPS  19,  8803, 10196, -23009
+[17:50:54] FPS  20,  8803, 10196, -23009
+[17:50:56] FPS  20,  8803, 10196, -23009
+[17:50:57] FPS  20,  8803, 10196, -23009
+[17:50:59] FPS  20,  8803, 10196, -23009
+[17:51:00] FPS  20,  8803, 10196, -23009
+[17:51:02] FPS  19,  8803, 10196, -23009
+[17:51:03] FPS  20,  8803, 10196, -23009
+[17:51:05] FPS  20,  8803, 10196, -23009
+[17:51:06] FPS  20,  8803, 10196, -23009
+[17:51:08] FPS  20,  8803, 10196, -23009
+[17:51:10] FPS  20,  8803, 10196, -23009
+[17:51:11] FPS  20,  8803, 10196, -23009
+[17:51:13] FPS  20,  8803, 10196, -23009
+[17:51:14] FPS  19,  8803, 10196, -23009
+[17:51:16] FPS  20,  8803, 10196, -23009
+[17:51:17] FPS  20,  8803, 10196, -23009
+[17:51:19] FPS  19,  8803, 10196, -23009
+[17:51:20] FPS  20,  8803, 10196, -23009
+[17:51:22] FPS  20,  8803, 10196, -23009
+[17:51:23] FPS  19,  8803, 10196, -23009
+[17:51:25] FPS  20,  8803, 10196, -23009
+[17:51:26] FPS  20,  8803, 10196, -23009
+[17:51:28] FPS  19,  8803, 10196, -23009
+[17:51:29] FPS  20,  8803, 10196, -23009
+[17:51:31] FPS  20,  8803, 10196, -23009
+[17:51:33] FPS  19,  8803, 10196, -23009
+[17:51:34] FPS  20,  8803, 10196, -23009
+[17:51:36] FPS  19,  8803, 10196, -23009
+[17:51:37] FPS  20,  8803, 10196, -23009
+[17:51:39] FPS  20,  8803, 10196, -23009
+[17:51:40] FPS  19,  8803, 10196, -23009
+[17:51:42] FPS  20,  8803, 10196, -23009
+[17:51:43] FPS  19,  8803, 10196, -23009
+[17:51:45] FPS  20,  8803, 10196, -23009
+[17:51:46] FPS  20,  8803, 10196, -23009
+[17:51:48] FPS  19,  8803, 10196, -23009
+[17:51:49] FPS  20,  8803, 10196, -23009
+[17:51:51] FPS  19,  8803, 10196, -23009
+[17:51:53] FPS  20,  8803, 10196, -23009
+[17:51:54] FPS  20,  8803, 10196, -23009
+[17:51:56] FPS  19,  8803, 10196, -23009
+[17:51:57] FPS  19,  8803, 10196, -23009
+[17:51:59] FPS  19,  8803, 10196, -23009
+[17:52:00] FPS  19,  8803, 10196, -23009
+[17:52:02] FPS  20,  8803, 10196, -23009
+[17:52:03] FPS  19,  8803, 10196, -23009
+[17:52:05] FPS  19,  8803, 10196, -23009
+[17:52:07] FPS  19,  8803, 10196, -23009
+[17:52:08] FPS  19,  8803, 10196, -23009
+[17:52:10] FPS  19,  8803, 10196, -23009
+[17:52:11] FPS  19,  8803, 10196, -23009
+[17:52:13] FPS  19,  8803, 10196, -23009
+[17:52:14] FPS  19,  8803, 10196, -23009
+[17:52:16] FPS  19,  8803, 10196, -23009
+[17:52:17] FPS  19,  8803, 10196, -23009
+[17:52:19] FPS  19,  8803, 10196, -23009
+[17:52:21] FPS  19,  8803, 10196, -23009
+[17:52:22] FPS  19,  8803, 10196, -23009
+[17:52:24] FPS  19,  8803, 10196, -23009
+[17:52:25] FPS  19,  8803, 10196, -23009
+[17:52:27] FPS  19,  8803, 10196, -23009
+[17:52:28] FPS  19,  8803, 10196, -23009
+[17:52:30] FPS  19,  8803, 10196, -23009
+[17:52:32] FPS  19,  8803, 10196, -23009
+[17:52:33] FPS  19,  8803, 10196, -23009
+[17:52:35] FPS  19,  8803, 10196, -23009
+[17:52:36] FPS  19,  8803, 10196, -23009
+[17:52:38] FPS  19,  8803, 10196, -23009
+[17:52:39] FPS  19,  8803, 10196, -23009
+[17:52:41] FPS  19,  8803, 10196, -23009
+[17:52:43] FPS  19,  8803, 10196, -23009
+[17:52:44] FPS  19,  8803, 10196, -23009
+[17:52:46] FPS  19,  8803, 10196, -23009
+[17:52:47] FPS  19,  8803, 10196, -23009
+[17:52:49] FPS  19,  8803, 10196, -23009
+[17:52:50] FPS  19,  8803, 10196, -23009
+[17:52:52] FPS  19,  8803, 10196, -23009
+[17:52:53] FPS  19,  8803, 10196, -23009
+[17:52:55] FPS  19,  8803, 10196, -23009
+[17:52:57] FPS  19,  8803, 10196, -23009
+[17:52:58] FPS  19,  8803, 10196, -23009
+[17:53:00] FPS  19,  8803, 10196, -23009
+[17:53:01] FPS  19,  8803, 10196, -23009
+[17:53:03] FPS  19,  8803, 10196, -23009
+[17:53:05] FPS  19,  8803, 10196, -23009
+[17:53:06] FPS  19,  8803, 10196, -23009
+[17:53:08] FPS  19,  8803, 10196, -23009
+[17:53:09] FPS  19,  8803, 10196, -23009
+[17:53:11] FPS  19,  8803, 10196, -23009
+[17:53:12] FPS  19,  8803, 10196, -23009
+[17:53:14] FPS  19,  8803, 10196, -23009
+[17:53:16] FPS  19,  8803, 10196, -23009
+[17:53:17] FPS  19,  8803, 10196, -23009
+[17:53:19] FPS  19,  8803, 10196, -23009
+[17:53:20] FPS  19,  8803, 10196, -23009
+[17:53:22] FPS  19,  8803, 10196, -23009
+[17:53:23] FPS  19,  8803, 10196, -23009
+[17:53:25] FPS  19,  8803, 10196, -23009
+[17:53:27] FPS  19,  8803, 10196, -23009
+[17:53:28] FPS  19,  8803, 10196, -23009
+[17:53:30] FPS  19,  8803, 10196, -23009
+[17:53:31] FPS  19,  8803, 10196, -23009
+[17:53:33] FPS  19,  8803, 10196, -23009
+[17:53:34] FPS  19,  8803, 10196, -23009
+[17:53:36] FPS  19,  8803, 10196, -23009
+[17:53:38] FPS  19,  8803, 10196, -23009
+[17:53:39] FPS  19,  8803, 10196, -23009
+[17:53:41] FPS  19,  8803, 10196, -23009
+[17:53:42] FPS  19,  8803, 10196, -23009
+[17:53:44] FPS  19,  8803, 10196, -23009
+[17:53:46] FPS  19,  8803, 10196, -23009
+[17:53:47] FPS  20,  8803, 10196, -23009
+[17:53:49] FPS  19,  8803, 10196, -23009
+[17:53:50] FPS  19,  8803, 10196, -23009
+[17:53:52] FPS  20,  8803, 10196, -23009
+[17:53:53] FPS  19,  8803, 10196, -23009
+[17:53:55] FPS  19,  8803, 10196, -23009
+[17:53:56] FPS  20,  8803, 10196, -23009
+[17:53:58] FPS  20,  8803, 10196, -23009
+[17:54:00] FPS  20,  8803, 10196, -23009
+[17:54:01] FPS  19,  8803, 10196, -23009
+[17:54:03] FPS  20,  8803, 10196, -23009
+[17:54:04] FPS  19,  8803, 10196, -23009
+[17:54:06] FPS  20,  8803, 10196, -23009
+[17:54:07] FPS  19,  8803, 10196, -23009
+[17:54:09] FPS  20,  8803, 10196, -23009
+[17:54:10] FPS  20,  8803, 10196, -23009
+[17:54:12] FPS  19,  8803, 10196, -23009
+[17:54:13] FPS  20,  8803, 10196, -23009
+[17:54:15] FPS  19,  8803, 10196, -23009
+[17:54:16] FPS  20,  8803, 10196, -23009
+[17:54:18] FPS  19,  8803, 10196, -23009
+[17:54:20] FPS  20,  8803, 10196, -23009
+[17:54:21] FPS  19,  8803, 10196, -23009
+[17:54:23] FPS  19,  8803, 10196, -23009
+[17:54:24] FPS  19,  8803, 10196, -23009
+[17:54:26] FPS  19,  8803, 10196, -23009
+[17:54:27] FPS  20,  8803, 10196, -23009
+[17:54:29] FPS  20,  8803, 10196, -23009
+[17:54:30] FPS  19,  8803, 10196, -23009
+[17:54:32] FPS  20,  8803, 10196, -23009
+[17:54:33] FPS  19,  8803, 10196, -23009
+[17:54:35] FPS  19,  8803, 10196, -23009
+[17:54:37] FPS  19,  8803, 10196, -23009
+[17:54:38] FPS  20,  8803, 10196, -23009
+[17:54:40] FPS  20,  8803, 10196, -23009
+[17:54:41] FPS  19,  8803, 10196, -23009
+[17:54:43] FPS  20,  8803, 10196, -23009
+[17:54:44] FPS  19,  8803, 10196, -23009
+[17:54:46] FPS  20,  8803, 10196, -23009
+[17:54:47] FPS  19,  8803, 10196, -23009
+[17:54:49] FPS  19,  8803, 10196, -23009
+[17:54:50] FPS  19,  8803, 10196, -23009
+[17:54:52] FPS  20,  8803, 10196, -23009
+[17:54:53] FPS  20,  8803, 10196, -23009
+[17:54:55] FPS  19,  8803, 10196, -23009
+[17:54:57] FPS  20,  8803, 10196, -23009
+[17:54:58] FPS  19,  8803, 10196, -23009
+[17:55:00] FPS  19,  8803, 10196, -23009
+[17:55:01] FPS  19,  8803, 10196, -23009
+[17:55:03] FPS  19,  8803, 10196, -23009
+[17:55:04] FPS  19,  8803, 10196, -23009
+[17:55:06] FPS  19,  8803, 10196, -23009
+[17:55:07] FPS  20,  8803, 10196, -23009
+[17:55:09] FPS  20,  8803, 10196, -23009
+[17:55:11] FPS  19,  8803, 10196, -23009
+[17:55:12] FPS  20,  8803, 10196, -23009
+[17:55:14] FPS  19,  8803, 10196, -23009
+[17:55:15] FPS  19,  8803, 10196, -23009
+[17:55:17] FPS  19,  8803, 10196, -23009
+[17:55:18] FPS  19,  8803, 10196, -23009
+[17:55:20] FPS  19,  8803, 10196, -23009
+[17:55:21] FPS  19,  8803, 10196, -23009
+[17:55:23] FPS  19,  8803, 10196, -23009
+[17:55:25] FPS  19,  8803, 10196, -23009
+[17:55:26] FPS  20,  8803, 10196, -23009
+[17:55:28] FPS  19,  8803, 10196, -23009
+[17:55:29] FPS  20,  8803, 10196, -23009
+[17:55:31] FPS  20,  8803, 10196, -23009
+[17:55:32] FPS  19,  8803, 10196, -23009
+[17:55:34] FPS  19,  8803, 10196, -23009
+[17:55:35] FPS  19,  8803, 10196, -23009
+[17:55:37] FPS  20,  8803, 10196, -23009
+[17:55:39] FPS  19,  8803, 10196, -23009
+[17:55:40] FPS  20,  8803, 10196, -23009
+[17:55:42] FPS  20,  8803, 10196, -23009
+[17:55:43] FPS  19,  8803, 10196, -23009
+[17:55:45] FPS  20,  8803, 10196, -23009
+[17:55:46] FPS  19,  8803, 10196, -23009
+[17:55:48] FPS  19,  8803, 10196, -23009
+[17:55:49] FPS  20,  8803, 10196, -23009
+[17:55:51] FPS  19,  8803, 10196, -23009
+[17:55:52] FPS  20,  8803, 10196, -23009
+[17:55:54] FPS  20,  8803, 10196, -23009
+[17:55:55] FPS  20,  8803, 10196, -23009
+[17:55:57] FPS  19,  8803, 10196, -23009
+[17:55:58] FPS  20,  8803, 10196, -23009
+[17:56:00] FPS  19,  8803, 10196, -23009
+[17:56:02] FPS  20,  8803, 10196, -23009
+[17:56:03] FPS  19,  8803, 10196, -23009
+[17:56:05] FPS  20,  8803, 10196, -23009
+[17:56:06] FPS  20,  8803, 10196, -23009
+[17:56:08] FPS  19,  8803, 10196, -23009
+[17:56:09] FPS  20,  8803, 10196, -23009
+[17:56:11] FPS  20,  8803, 10196, -23009
+[17:56:12] FPS  19,  8803, 10196, -23009
+[17:56:14] FPS  20,  8803, 10196, -23009
+[17:56:15] FPS  20,  8803, 10196, -23009
+[17:56:17] FPS  20,  8803, 10196, -23009
+[17:56:18] FPS  19,  8803, 10196, -23009
+[17:56:20] FPS  20,  8803, 10196, -23009
+[17:56:21] FPS  20,  8803, 10196, -23009
+[17:56:23] FPS  19,  8803, 10196, -23009
+[17:56:25] FPS  20,  8803, 10196, -23009
+[17:56:26] FPS  19,  8803, 10196, -23009
+[17:56:28] FPS  20,  8803, 10196, -23009
+[17:56:29] FPS  20,  8803, 10196, -23009
+[17:56:31] FPS  20,  8803, 10196, -23009
+[17:56:32] FPS  20,  8803, 10196, -23009
+[17:56:34] FPS  20,  8803, 10196, -23009
+[17:56:35] FPS  20,  8803, 10196, -23009
+[17:56:37] FPS  19,  8803, 10196, -23009
+[17:56:38] FPS  20,  8803, 10196, -23009
+[17:56:40] FPS  20,  8803, 10196, -23009
+[17:56:41] FPS  19,  8803, 10196, -23009
+[17:56:43] FPS  20,  8803, 10196, -23009
+[17:56:44] FPS  20,  8803, 10196, -23009
+[17:56:46] FPS  20,  8803, 10196, -23009
+[17:56:47] FPS  19,  8803, 10196, -23009
+[17:56:49] FPS  20,  8803, 10196, -23009
+[17:56:51] FPS  20,  8803, 10196, -23009
+[17:56:52] FPS  19,  8803, 10196, -23009
+[17:56:54] FPS  20,  8803, 10196, -23009
+[17:56:55] FPS  20,  8803, 10196, -23009
+[17:56:57] FPS  20,  8803, 10196, -23009
+[17:56:58] FPS  19,  8803, 10196, -23009
+[17:57:00] FPS  20,  8803, 10196, -23009
+[17:57:01] FPS  20,  8803, 10196, -23009
+[17:57:03] FPS  20,  8803, 10196, -23009
+[17:57:04] FPS  20,  8803, 10196, -23009
+[17:57:06] FPS  20,  8803, 10196, -23009
+[17:57:07] FPS  19,  8803, 10196, -23009
+[17:57:09] FPS  20,  8803, 10196, -23009
+[17:57:10] FPS  20,  8803, 10196, -23009
+[17:57:12] FPS  20,  8803, 10196, -23009
+[17:57:13] FPS  20,  8803, 10196, -23009
+[17:57:15] FPS  20,  8803, 10196, -23009
+[17:57:16] FPS  20,  8803, 10196, -23009
+[17:57:18] FPS  20,  8803, 10196, -23009
+[17:57:19] FPS  21,  8803, 10196, -23009
+[17:57:21] FPS  20,  8803, 10196, -23009
+[17:57:22] FPS  19,  8803, 10196, -23009
+[17:57:24] FPS  19,  8803, 10196, -23009
+[17:57:26] FPS  19,  8803, 10196, -23009
+[17:57:27] FPS  20,  8803, 10196, -23009
+[17:57:29] FPS  19,  8803, 10196, -23009
+[17:57:30] FPS  20,  8803, 10196, -23009
+[17:57:32] FPS  20,  8803, 10196, -23009
+[17:57:33] FPS  20,  8803, 10196, -23009
+[17:57:34] FPS  20,  8803, 10196, -23009
+[17:57:36] FPS  20,  8803, 10196, -23009
+[17:57:37] FPS  20,  8803, 10196, -23009
+[17:57:39] FPS  19,  8803, 10196, -23009
+[17:57:40] FPS  19,  8803, 10196, -23009
+[17:57:42] FPS  20,  8803, 10196, -23009
+[17:57:43] FPS  19,  8803, 10196, -23009
+[17:57:45] FPS  19,  8803, 10196, -23009
+[17:57:47] FPS  20,  8803, 10196, -23009
+[17:57:48] FPS  20,  8803, 10196, -23009
+[17:57:50] FPS  20,  8803, 10196, -23009
+[17:57:51] FPS  19,  8803, 10196, -23009
+[17:57:53] FPS  20,  8803, 10196, -23009
+[17:57:54] FPS  20,  8803, 10196, -23009
+[17:57:56] FPS  20,  8803, 10196, -23009
+[17:57:57] FPS  20,  8803, 10196, -23009
+[17:57:59] FPS  20,  8803, 10196, -23009
+[17:58:00] FPS  20,  8803, 10196, -23009
+[17:58:02] FPS  19,  8803, 10196, -23009
+[17:58:03] FPS  21,  8803, 10196, -23009
+[17:58:05] FPS  20,  8803, 10196, -23009
+[17:58:06] FPS  20,  8803, 10196, -23009
+[17:58:08] FPS  20,  8803, 10196, -23009
+[17:58:09] FPS  20,  8803, 10196, -23009
+[17:58:11] FPS  20,  8803, 10196, -23009
+[17:58:12] FPS  20,  8803, 10196, -23009
+[17:58:14] FPS  20,  8803, 10196, -23009
+[17:58:15] FPS  20,  8803, 10196, -23009
+[17:58:17] FPS  20,  8803, 10196, -23009
+[17:58:18] FPS  20,  8803, 10196, -23009
+[17:58:20] FPS  20,  8803, 10196, -23009
+[17:58:21] FPS  18,  8803, 10196, -23009
+[17:58:23] FPS  21,  8803, 10196, -23009
+[17:58:24] FPS  18,  8803, 10196, -23009
+[17:58:26] FPS  19,  8803, 10196, -23009
+[17:58:28] FPS  18,  8803, 10196, -23009
+[17:58:29] FPS  19,  8803, 10196, -23009
+[17:58:31] FPS  19,  8803, 10196, -23009
+[17:58:32] FPS  19,  8803, 10196, -23009
+[17:58:34] FPS  18,  8803, 10196, -23009
+[17:58:36] FPS  19,  8803, 10196, -23009
+[17:58:37] FPS  19,  8803, 10196, -23009
+[17:58:39] FPS  18,  8803, 10196, -23009
+[17:58:40] FPS  19,  8803, 10196, -23009
+[17:58:42] FPS  18,  8803, 10196, -23009
+[17:58:44] FPS  18,  8803, 10196, -23009
+[17:58:45] FPS  19,  8803, 10196, -23009
+[17:58:47] FPS  19,  8803, 10196, -23009
+[17:58:49] FPS  19,  8803, 10196, -23009
+[17:58:50] FPS  18,  8803, 10196, -23009
+[17:58:52] FPS  19,  8803, 10196, -23009
+[17:58:53] FPS  18,  8803, 10196, -23009
+[17:58:55] FPS  20,  8803, 10196, -23009
+[17:58:56] FPS  20,  8803, 10196, -23009
+[17:58:58] FPS  20,  8803, 10196, -23009
+[17:58:59] FPS  20,  8803, 10196, -23009
+[17:59:01] FPS  20,  8803, 10196, -23009
+[17:59:02] FPS  20,  8803, 10196, -23009
+[17:59:04] FPS  21,  8803, 10196, -23009
+[17:59:05] FPS  20,  8803, 10196, -23009
+[17:59:07] FPS  20,  8803, 10196, -23009
+[17:59:08] FPS  20,  8803, 10196, -23009
+[17:59:10] FPS  20,  8803, 10196, -23009
+[17:59:11] FPS  20,  8803, 10196, -23009
+[17:59:13] FPS  20,  8803, 10196, -23009
+[17:59:14] FPS  20,  8803, 10196, -23009
+[17:59:16] FPS  20,  8803, 10196, -23009
+[17:59:17] FPS  20,  8803, 10196, -23009
+[17:59:19] FPS  20,  8803, 10196, -23009
+[17:59:20] FPS  19,  8803, 10196, -23009
+[17:59:22] FPS  20,  8803, 10196, -23009
+[17:59:23] FPS  20,  8803, 10196, -23009
+[17:59:25] FPS  20,  8803, 10196, -23009
+[17:59:26] FPS  21,  8803, 10196, -23009
+[17:59:28] FPS  20,  8803, 10196, -23009
+[17:59:29] FPS  20,  8803, 10196, -23009
+[17:59:31] FPS  21,  8803, 10196, -23009
+[17:59:32] FPS  20,  8803, 10196, -23009
+[17:59:34] FPS  20,  8803, 10196, -23009
+[17:59:35] FPS  20,  8803, 10196, -23009
+[17:59:37] FPS  20,  8803, 10196, -23009
+[17:59:38] FPS  20,  8803, 10196, -23009
+[17:59:40] FPS  20,  8803, 10196, -23009
+[17:59:41] FPS  20,  8803, 10196, -23009
+[17:59:43] FPS  20,  8803, 10196, -23009
+[17:59:44] FPS  20,  8803, 10196, -23009
+[17:59:46] FPS  20,  8803, 10196, -23009
+[17:59:47] FPS  20,  8803, 10196, -23009
+[17:59:49] FPS  20,  8803, 10196, -23009
+[17:59:50] FPS  20,  8803, 10196, -23009
+[17:59:52] FPS  20,  8803, 10196, -23009
+[17:59:53] FPS  20,  8803, 10196, -23009
+[17:59:54] FPS  20,  8803, 10196, -23009
+[17:59:56] FPS  21,  8803, 10196, -23009
+[17:59:57] FPS  20,  8803, 10196, -23009
+[17:59:59] FPS  20,  8803, 10196, -23009
+[18:00:00] FPS  20,  8803, 10196, -23009
+[18:00:02] FPS  20,  8803, 10196, -23009
+[18:00:03] FPS  20,  8803, 10196, -23009
+[18:00:05] FPS  21,  8803, 10196, -23009
+[18:00:06] FPS  20,  8803, 10196, -23009
+[18:00:08] FPS  20,  8803, 10196, -23009
+[18:00:09] FPS  20,  8803, 10196, -23009
+[18:00:11] FPS  20,  8803, 10196, -23009
+[18:00:12] FPS  21,  8803, 10196, -23009
+[18:00:14] FPS  19,  8803, 10196, -23009
+[18:00:15] FPS  20,  8803, 10196, -23009
+[18:00:17] FPS  20,  8803, 10196, -23009
+[18:00:18] FPS  20,  8803, 10196, -23009
+[18:00:20] FPS  20,  8803, 10196, -23009
+[18:00:21] FPS  20,  8803, 10196, -23009
+[18:00:23] FPS  20,  8803, 10196, -23009
+[18:00:24] FPS  20,  8803, 10196, -23009
+[18:00:26] FPS  21,  8803, 10196, -23009
+[18:00:27] FPS  20,  8803, 10196, -23009
+[18:00:29] FPS  20,  8803, 10196, -23009
+[18:00:30] FPS  20,  8803, 10196, -23009
+[18:00:32] FPS  20,  8803, 10196, -23009
+[18:00:33] FPS  20,  8803, 10196, -23009
+[18:00:35] FPS  20,  8803, 10196, -23009
+[18:00:36] FPS  20,  8803, 10196, -23009
+[18:00:38] FPS  20,  8803, 10196, -23009
+[18:00:39] FPS  20,  8803, 10196, -23009
+[18:00:41] FPS  20,  8803, 10196, -23009
+[18:00:42] FPS  20,  8803, 10196, -23009
+[18:00:44] FPS  20,  8803, 10196, -23009
+[18:00:45] FPS  19,  8803, 10196, -23009
+[18:00:47] FPS  20,  8803, 10196, -23009
+[18:00:48] FPS  20,  8803, 10196, -23009
+[18:00:50] FPS  21,  8803, 10196, -23009
+[18:00:51] FPS  20,  8803, 10196, -23009
+[18:00:53] FPS  20,  8803, 10196, -23009
+[18:00:54] FPS  20,  8803, 10196, -23009
+[18:00:56] FPS  20,  8803, 10196, -23009
+[18:00:57] FPS  20,  8803, 10196, -23009
+[18:00:59] FPS  20,  8803, 10196, -23009
+[18:01:00] FPS  21,  8803, 10196, -23009
+[18:01:02] FPS  20,  8803, 10196, -23009
+[18:01:03] FPS  18,  8803, 10196, -23009
+[18:01:05] FPS  19,  8803, 10196, -23009
+[18:01:06] FPS  19,  8803, 10196, -23009
+[18:01:08] FPS  18,  8803, 10196, -23009
+[18:01:10] FPS  18,  8803, 10196, -23009
+[18:01:11] FPS  18,  8803, 10196, -23009
+[18:01:13] FPS  18,  8803, 10196, -23009
+[18:01:15] FPS  18,  8803, 10196, -23009
+[18:01:16] FPS  18,  8803, 10196, -23009
+[18:01:18] FPS  19,  8803, 10196, -23009
+[18:01:20] FPS  18,  8803, 10196, -23009
+[18:01:21] FPS  18,  8803, 10196, -23009
+[18:01:23] FPS  18,  8803, 10196, -23009
+[18:01:25] FPS  18,  8803, 10196, -23009
+[18:01:26] FPS  19,  8803, 10196, -23009
+[18:01:28] FPS  18,  8803, 10196, -23009
+[18:01:29] FPS  19,  8803, 10196, -23009
+[18:01:31] FPS  19,  8803, 10196, -23009
+[18:01:33] FPS  18,  8803, 10196, -23009
+[18:01:34] FPS  18,  8803, 10196, -23009
+[18:01:36] FPS  18,  8803, 10196, -23009
+[18:01:38] FPS  18,  8803, 10196, -23009
+[18:01:39] FPS  20,  8803, 10196, -23009
+[18:01:41] FPS  18,  8803, 10196, -23009
+[18:01:42] FPS  19,  8803, 10196, -23009
+[18:01:44] FPS  17,  8803, 10196, -23009
+[18:01:46] FPS  18,  8803, 10196, -23009
+[18:01:48] FPS  18,  8803, 10196, -23009
+[18:01:49] FPS  19,  8803, 10196, -23009
+[18:01:51] Giant dt in app. dt = 1.50
+[18:01:51] ANT DONGLE NOT CONNECTED
+[18:01:52] FPS   9,  8803, 10196, -23009
+[18:01:54] FPS  18,  8803, 10196, -23009
+[18:01:56] FPS  18,  8803, 10196, -23009
+[18:01:57] FPS  17,  8803, 10196, -23009
+[18:01:59] FPS  17,  8803, 10196, -23009
+[18:02:01] FPS  18,  8803, 10196, -23009
+[18:02:03] FPS  18,  8803, 10196, -23009
+[18:02:04] FPS  18,  8803, 10196, -23009
+[18:02:06] FPS  18,  8803, 10196, -23009
+[18:02:08] FPS  18,  8803, 10196, -23009
+[18:02:09] FPS  18,  8803, 10196, -23009
+[18:02:11] FPS  17,  8803, 10196, -23009
+[18:02:13] FPS  18,  8803, 10196, -23009
+[18:02:14] FPS  17,  8803, 10196, -23009
+[18:02:16] FPS  18,  8803, 10196, -23009
+[18:02:18] FPS  17,  8803, 10196, -23009
+[18:02:20] FPS  17,  8803, 10196, -23009
+[18:02:21] FPS  17,  8803, 10196, -23009
+[18:02:23] FPS  17,  8803, 10196, -23009
+[18:02:25] FPS  19,  8803, 10196, -23009
+[18:02:26] FPS  19,  8803, 10196, -23009
+[18:02:28] FPS  19,  8803, 10196, -23009
+[18:02:29] FPS  19,  8803, 10196, -23009
+[18:02:31] FPS  18,  8803, 10196, -23009
+[18:02:33] FPS  16,  8803, 10196, -23009
+[18:02:35] FPS  17,  8803, 10196, -23009
+[18:02:36] FPS  17,  8803, 10196, -23009
+[18:02:38] FPS  17,  8803, 10196, -23009
+[18:02:40] FPS  18,  8803, 10196, -23009
+[18:02:42] FPS  16,  8803, 10196, -23009
+[18:02:44] FPS  17,  8803, 10196, -23009
+[18:02:45] FPS  17,  8803, 10196, -23009
+[18:02:47] FPS  17,  8803, 10196, -23009
+[18:02:49] FPS  17,  8803, 10196, -23009
+[18:02:51] FPS  17,  8803, 10196, -23009
+[18:02:52] FPS  17,  8803, 10196, -23009
+[18:02:54] FPS  17,  8803, 10196, -23009
+[18:02:56] FPS  17,  8803, 10196, -23009
+[18:02:58] FPS  17,  8803, 10196, -23009
+[18:03:00] FPS  17,  8803, 10196, -23009
+[18:03:01] FPS  17,  8803, 10196, -23009
+[18:03:03] FPS  17,  8803, 10196, -23009
+[18:03:05] FPS  17,  8803, 10196, -23009
+[18:03:07] FPS  17,  8803, 10196, -23009
+[18:03:08] FPS  17,  8803, 10196, -23009
+[18:03:10] FPS  17,  8803, 10196, -23009
+[18:03:12] FPS  17,  8803, 10196, -23009
+[18:03:14] FPS  17,  8803, 10196, -23009
+[18:03:15] FPS  17,  8803, 10196, -23009
+[18:03:17] FPS  17,  8803, 10196, -23009
+[18:03:19] FPS  17,  8803, 10196, -23009
+[18:03:21] FPS  17,  8803, 10196, -23009
+[18:03:23] FPS  17,  8803, 10196, -23009
+[18:03:24] FPS  16,  8803, 10196, -23009
+[18:03:26] FPS  17,  8803, 10196, -23009
+[18:03:28] FPS  17,  8803, 10196, -23009
+[18:03:30] FPS  17,  8803, 10196, -23009
+[18:03:31] FPS  16,  8803, 10196, -23009
+[18:03:33] FPS  17,  8803, 10196, -23009
+[18:03:35] FPS  17,  8803, 10196, -23009
+[18:03:37] FPS  17,  8803, 10196, -23009
+[18:03:39] FPS  17,  8803, 10196, -23009
+[18:03:40] FPS  17,  8803, 10196, -23009
+[18:03:42] FPS  17,  8803, 10196, -23009
+[18:03:44] FPS  16,  8803, 10196, -23009
+[18:03:46] FPS  17,  8803, 10196, -23009
+[18:03:48] FPS  17,  8803, 10196, -23009
+[18:03:49] FPS  16,  8803, 10196, -23009
+[18:03:51] FPS  17,  8803, 10196, -23009
+[18:03:53] FPS  17,  8803, 10196, -23009
+[18:03:55] FPS  16,  8803, 10196, -23009
+[18:03:57] FPS  17,  8803, 10196, -23009
+[18:03:58] FPS  16,  8803, 10196, -23009
+[18:04:00] FPS  16,  8803, 10196, -23009
+[18:04:02] FPS  17,  8803, 10196, -23009
+[18:04:04] FPS  17,  8803, 10196, -23009
+[18:04:06] FPS  16,  8803, 10196, -23009
+[18:04:07] FPS  17,  8803, 10196, -23009
+[18:04:09] FPS  16,  8803, 10196, -23009
+[18:04:11] FPS  17,  8803, 10196, -23009
+[18:04:13] FPS  17,  8803, 10196, -23009
+[18:04:15] FPS  17,  8803, 10196, -23009
+[18:04:17] FPS  16,  8803, 10196, -23009
+[18:04:18] FPS  16,  8803, 10196, -23009
+[18:04:20] FPS  16,  8803, 10196, -23009
+[18:04:22] FPS  16,  8803, 10196, -23009
+[18:04:24] FPS  17,  8803, 10196, -23009
+[18:04:26] FPS  17,  8803, 10196, -23009
+[18:04:27] FPS  16,  8803, 10196, -23009
+[18:04:29] FPS  17,  8803, 10196, -23009
+[18:04:31] FPS  17,  8803, 10196, -23009
+[18:04:33] FPS  17,  8803, 10196, -23009
+[18:04:35] FPS  17,  8803, 10196, -23009
+[18:04:36] FPS  16,  8803, 10196, -23009
+[18:04:38] FPS  17,  8803, 10196, -23009
+[18:04:40] FPS  17,  8803, 10196, -23009
+[18:04:42] FPS  16,  8803, 10196, -23009
+[18:04:44] FPS  17,  8803, 10196, -23009
+[18:04:46] FPS  16,  8803, 10196, -23009
+[18:04:47] FPS  17,  8803, 10196, -23009
+[18:04:49] FPS  17,  8803, 10196, -23009
+[18:04:51] FPS  17,  8803, 10196, -23009
+[18:04:53] FPS  16,  8803, 10196, -23009
+[18:04:54] FPS  17,  8803, 10196, -23009
+[18:04:56] FPS  16,  8803, 10196, -23009
+[18:04:58] FPS  17,  8803, 10196, -23009
+[18:05:00] FPS  16,  8803, 10196, -23009
+[18:05:02] FPS  17,  8803, 10196, -23009
+[18:05:03] FPS  17,  8803, 10196, -23009
+[18:05:05] FPS  17,  8803, 10196, -23009
+[18:05:07] FPS  17,  8803, 10196, -23009
+[18:05:09] FPS  17,  8803, 10196, -23009
+[18:05:11] FPS  17,  8803, 10196, -23009
+[18:05:12] FPS  17,  8803, 10196, -23009
+[18:05:14] FPS  17,  8803, 10196, -23009
+[18:05:16] FPS  17,  8803, 10196, -23009
+[18:05:18] FPS  17,  8803, 10196, -23009
+[18:05:19] FPS  17,  8803, 10196, -23009
+[18:05:21] FPS  17,  8803, 10196, -23009
+[18:05:23] FPS  17,  8803, 10196, -23009
+[18:05:25] FPS  17,  8803, 10196, -23009
+[18:05:27] FPS  17,  8803, 10196, -23009
+[18:05:28] FPS  17,  8803, 10196, -23009
+[18:05:30] FPS  17,  8803, 10196, -23009
+[18:05:32] FPS  16,  8803, 10196, -23009
+[18:05:34] FPS  17,  8803, 10196, -23009
+[18:05:35] FPS  17,  8803, 10196, -23009
+[18:05:37] FPS  17,  8803, 10196, -23009
+[18:05:39] FPS  17,  8803, 10196, -23009
+[18:05:41] FPS  17,  8803, 10196, -23009
+[18:05:43] FPS  17,  8803, 10196, -23009
+[18:05:44] FPS  17,  8803, 10196, -23009
+[18:05:46] FPS  17,  8803, 10196, -23009
+[18:05:48] FPS  17,  8803, 10196, -23009
+[18:05:50] FPS  17,  8803, 10196, -23009
+[18:05:52] FPS  17,  8803, 10196, -23009
+[18:05:53] FPS  17,  8803, 10196, -23009
+[18:05:55] FPS  17,  8803, 10196, -23009
+[18:05:57] FPS  17,  8803, 10196, -23009
+[18:05:59] FPS  17,  8803, 10196, -23009
+[18:06:00] FPS  17,  8803, 10196, -23009
+[18:06:02] FPS  17,  8803, 10196, -23009
+[18:06:04] FPS  17,  8803, 10196, -23009
+[18:06:06] FPS  17,  8803, 10196, -23009
+[18:06:07] FPS  17,  8803, 10196, -23009
+[18:06:09] FPS  17,  8803, 10196, -23009
+[18:06:11] FPS  17,  8803, 10196, -23009
+[18:06:13] FPS  17,  8803, 10196, -23009
+[18:06:15] FPS  17,  8803, 10196, -23009
+[18:06:16] FPS  16,  8803, 10196, -23009
+[18:06:18] FPS  17,  8803, 10196, -23009
+[18:06:20] FPS  17,  8803, 10196, -23009
+[18:06:22] FPS  17,  8803, 10196, -23009
+[18:06:23] FPS  17,  8803, 10196, -23009
+[18:06:25] FPS  17,  8803, 10196, -23009
+[18:06:27] FPS  16,  8803, 10196, -23009
+[18:06:29] FPS  17,  8803, 10196, -23009
+[18:06:31] FPS  17,  8803, 10196, -23009
+[18:06:32] FPS  16,  8803, 10196, -23009
+[18:06:34] FPS  17,  8803, 10196, -23009
+[18:06:36] FPS  17,  8803, 10196, -23009
+[18:06:38] FPS  17,  8803, 10196, -23009
+[18:06:39] FPS  17,  8803, 10196, -23009
+[18:06:41] FPS  16,  8803, 10196, -23009
+[18:06:43] FPS  17,  8803, 10196, -23009
+[18:06:45] FPS  17,  8803, 10196, -23009
+[18:06:47] FPS  17,  8803, 10196, -23009
+[18:06:48] FPS  17,  8803, 10196, -23009
+[18:06:50] FPS  16,  8803, 10196, -23009
+[18:06:52] FPS  17,  8803, 10196, -23009
+[18:06:54] FPS  17,  8803, 10196, -23009
+[18:06:56] FPS  17,  8803, 10196, -23009
+[18:06:57] FPS  17,  8803, 10196, -23009
+[18:06:59] FPS  17,  8803, 10196, -23009
+[18:07:01] FPS  17,  8803, 10196, -23009
+[18:07:03] FPS  17,  8803, 10196, -23009
+[18:07:04] FPS  17,  8803, 10196, -23009
+[18:07:06] FPS  17,  8803, 10196, -23009
+[18:07:08] FPS  17,  8803, 10196, -23009
+[18:07:10] FPS  17,  8803, 10196, -23009
+[18:07:12] FPS  17,  8803, 10196, -23009
+[18:07:13] FPS  17,  8803, 10196, -23009
+[18:07:15] FPS  17,  8803, 10196, -23009
+[18:07:17] FPS  17,  8803, 10196, -23009
+[18:07:19] FPS  17,  8803, 10196, -23009
+[18:07:20] FPS  17,  8803, 10196, -23009
+[18:07:22] FPS  17,  8803, 10196, -23009
+[18:07:24] FPS  17,  8803, 10196, -23009
+[18:07:26] FPS  17,  8803, 10196, -23009
+[18:07:28] FPS  17,  8803, 10196, -23009
+[18:07:29] FPS  17,  8803, 10196, -23009
+[18:07:31] FPS  17,  8803, 10196, -23009
+[18:07:33] FPS  17,  8803, 10196, -23009
+[18:07:35] FPS  17,  8803, 10196, -23009
+[18:07:36] FPS  17,  8803, 10196, -23009
+[18:07:38] FPS  16,  8803, 10196, -23009
+[18:07:40] FPS  17,  8803, 10196, -23009
+[18:07:42] FPS  17,  8803, 10196, -23009
+[18:07:43] FPS  18,  8803, 10196, -23009
+[18:07:45] FPS  17,  8803, 10196, -23009
+[18:07:47] FPS  17,  8803, 10196, -23009
+[18:07:49] FPS  17,  8803, 10196, -23009
+[18:07:50] FPS  17,  8803, 10196, -23009
+[18:07:52] FPS  17,  8803, 10196, -23009
+[18:07:54] FPS  17,  8803, 10196, -23009
+[18:07:56] FPS  17,  8803, 10196, -23009
+[18:07:57] FPS  17,  8803, 10196, -23009
+[18:07:59] FPS  17,  8803, 10196, -23009
+[18:08:01] FPS  17,  8803, 10196, -23009
+[18:08:03] FPS  17,  8803, 10196, -23009
+[18:08:05] FPS  17,  8803, 10196, -23009
+[18:08:06] FPS  17,  8803, 10196, -23009
+[18:08:08] FPS  17,  8803, 10196, -23009
+[18:08:10] FPS  17,  8803, 10196, -23009
+[18:08:12] FPS  17,  8803, 10196, -23009
+[18:08:13] FPS  17,  8803, 10196, -23009
+[18:08:15] FPS  17,  8803, 10196, -23009
+[18:08:17] FPS  18,  8803, 10196, -23009
+[18:08:18] FPS  17,  8803, 10196, -23009
+[18:08:20] FPS  17,  8803, 10196, -23009
+[18:08:22] FPS  17,  8803, 10196, -23009
+[18:08:24] FPS  17,  8803, 10196, -23009
+[18:08:26] FPS  17,  8803, 10196, -23009
+[18:08:27] FPS  18,  8803, 10196, -23009
+[18:08:29] FPS  17,  8803, 10196, -23009
+[18:08:31] FPS  17,  8803, 10196, -23009
+[18:08:33] FPS  17,  8803, 10196, -23009
+[18:08:34] FPS  18,  8803, 10196, -23009
+[18:08:36] FPS  17,  8803, 10196, -23009
+[18:08:38] FPS  17,  8803, 10196, -23009
+[18:08:40] FPS  18,  8803, 10196, -23009
+[18:08:41] FPS  17,  8803, 10196, -23009
+[18:08:43] FPS  17,  8803, 10196, -23009
+[18:08:45] FPS  17,  8803, 10196, -23009
+[18:08:47] FPS  17,  8803, 10196, -23009
+[18:08:48] FPS  17,  8803, 10196, -23009
+[18:08:50] FPS  17,  8803, 10196, -23009
+[18:08:52] FPS  17,  8803, 10196, -23009
+[18:08:54] FPS  17,  8803, 10196, -23009
+[18:08:55] FPS  17,  8803, 10196, -23009
+[18:08:57] FPS  17,  8803, 10196, -23009
+[18:08:59] FPS  17,  8803, 10196, -23009
+[18:09:01] FPS  17,  8803, 10196, -23009
+[18:09:02] FPS  17,  8803, 10196, -23009
+[18:09:04] FPS  17,  8803, 10196, -23009
+[18:09:06] FPS  17,  8803, 10196, -23009
+[18:09:08] FPS  18,  8803, 10196, -23009
+[18:09:09] FPS  17,  8803, 10196, -23009
+[18:09:11] FPS  17,  8803, 10196, -23009
+[18:09:13] FPS  17,  8803, 10196, -23009
+[18:09:15] FPS  17,  8803, 10196, -23009
+[18:09:16] FPS  17,  8803, 10196, -23009
+[18:09:18] FPS  17,  8803, 10196, -23009
+[18:09:20] FPS  17,  8803, 10196, -23009
+[18:09:22] FPS  17,  8803, 10196, -23009
+[18:09:23] FPS  17,  8803, 10196, -23009
+[18:09:25] FPS  17,  8803, 10196, -23009
+[18:09:27] FPS  17,  8803, 10196, -23009
+[18:09:29] FPS  17,  8803, 10196, -23009
+[18:09:30] FPS  18,  8803, 10196, -23009
+[18:09:32] FPS  17,  8803, 10196, -23009
+[18:09:34] FPS  17,  8803, 10196, -23009
+[18:09:36] FPS  17,  8803, 10196, -23009
+[18:09:37] FPS  18,  8803, 10196, -23009
+[18:09:39] FPS  17,  8803, 10196, -23009
+[18:09:41] FPS  17,  8803, 10196, -23009
+[18:09:43] FPS  17,  8803, 10196, -23009
+[18:09:44] FPS  17,  8803, 10196, -23009
+[18:09:46] FPS  17,  8803, 10196, -23009
+[18:09:48] FPS  18,  8803, 10196, -23009
+[18:09:50] FPS  17,  8803, 10196, -23009
+[18:09:51] FPS  17,  8803, 10196, -23009
+[18:09:53] FPS  17,  8803, 10196, -23009
+[18:09:55] FPS  18,  8803, 10196, -23009
+[18:09:57] FPS  17,  8803, 10196, -23009
+[18:09:58] FPS  17,  8803, 10196, -23009
+[18:10:00] FPS  17,  8803, 10196, -23009
+[18:10:02] FPS  17,  8803, 10196, -23009
+[18:10:04] FPS  18,  8803, 10196, -23009
+[18:10:05] FPS  17,  8803, 10196, -23009
+[18:10:07] FPS  17,  8803, 10196, -23009
+[18:10:09] FPS  17,  8803, 10196, -23009
+[18:10:10] FPS  17,  8803, 10196, -23009
+[18:10:12] FPS  17,  8803, 10196, -23009
+[18:10:14] FPS  17,  8803, 10196, -23009
+[18:10:16] FPS  17,  8803, 10196, -23009
+[18:10:17] FPS  18,  8803, 10196, -23009
+[18:10:19] FPS  19,  8803, 10196, -23009
+[18:10:21] FPS  18,  8803, 10196, -23009
+[18:10:22] FPS  19,  8803, 10196, -23009
+[18:10:24] FPS  18,  8803, 10196, -23009
+[18:10:25] FPS  19,  8803, 10196, -23009
+[18:10:27] FPS  19,  8803, 10196, -23009
+[18:10:29] FPS  19,  8803, 10196, -23009
+[18:10:30] FPS  18,  8803, 10196, -23009
+[18:10:32] FPS  19,  8803, 10196, -23009
+[18:10:34] FPS  19,  8803, 10196, -23009
+[18:10:35] FPS  19,  8803, 10196, -23009
+[18:10:37] FPS  19,  8803, 10196, -23009
+[18:10:38] FPS  18,  8803, 10196, -23009
+[18:10:40] FPS  18,  8803, 10196, -23009
+[18:10:42] FPS  19,  8803, 10196, -23009
+[18:10:43] FPS  19,  8803, 10196, -23009
+[18:10:45] FPS  19,  8803, 10196, -23009
+[18:10:46] FPS  19,  8803, 10196, -23009
+[18:10:48] FPS  18,  8803, 10196, -23009
+[18:10:50] FPS  19,  8803, 10196, -23009
+[18:10:51] FPS  20,  8803, 10196, -23009
+[18:10:53] FPS  19,  8803, 10196, -23009
+[18:10:54] FPS  19,  8803, 10196, -23009
+[18:10:56] FPS  19,  8803, 10196, -23009
+[18:10:57] FPS  19,  8803, 10196, -23009
+[18:10:59] FPS  19,  8803, 10196, -23009
+[18:11:00] FPS  19,  8803, 10196, -23009
+[18:11:02] FPS  19,  8803, 10196, -23009
+[18:11:04] FPS  19,  8803, 10196, -23009
+[18:11:05] FPS  19,  8803, 10196, -23009
+[18:11:07] FPS  20,  8803, 10196, -23009
+[18:11:08] FPS  19,  8803, 10196, -23009
+[18:11:10] FPS  19,  8803, 10196, -23009
+[18:11:11] FPS  17,  8803, 10196, -23009
+[18:11:13] FPS  19,  8803, 10196, -23009
+[18:11:15] FPS  19,  8803, 10196, -23009

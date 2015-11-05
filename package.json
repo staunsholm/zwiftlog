@@ -1,0 +1,9 @@
+{
+  "name": "zwiftlog",
+  "version": "0.0.1",
+  "devDependencies": {
+    "color-log": "0.0.2",
+    "config-multipaas": "^0.1.0",
+    "restify": "^4.0.3"
+  }
+}

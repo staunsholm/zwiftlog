@@ -1,0 +1,510 @@
+[16:27:07] Log Time: 16:27:07 2015-11-02
+[16:27:07] Loading WAD file 'assets/global.wad' with file.
+[16:27:07] Loading WAD file 'assets/UI/WhiteOrangeTheme/WhiteOrangeTheme.wad' with file.
+[16:27:07] Successful audio init!
+[16:27:07] Initializing graphics window of size 0 x 0
+[16:27:08] Checking Extensions
+[16:27:08] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not fi
+[16:27:08] Calculation Graphics Score
+[16:27:08] Initializing Render Targets
+[16:27:08] Initializing Texture Systems
+[16:27:08] Suceeded initializing graphics
+[16:27:08] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[16:27:08] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[16:27:08] Loading WAD file 'assets/fonts/font.wad' with file.
+[16:27:08] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[16:27:08] Using medium graphics profile
+[16:27:08] > res 1280x720(0x)
+[16:27:08] Changed resolution to 1280 x 720  ( NO MSAA )
+
+[16:27:08] > sres 1024x1024
+[16:27:08] Changed shadow resolution to 1024 x 1024
+
+[16:27:08] > aniso 4
+[16:27:08] > set gSSAO=0
+[16:27:08] > set gFXAA=1
+[16:27:08] > set gSunRays=0
+[16:27:08] > set gHeadlight=0
+[16:27:08] > set gFoliagePercent=0.5
+[16:27:08] > set gSimpleReflections=1
+[16:27:08] > set gLODBias=1
+[16:27:08] Loading WAD file 'assets/Environment/Road/FreshRoad/FreshRoad.wad' with file.
+[16:27:08] Loading WAD file 'assets/Environment/Road/Cobblestone/Cobblestone.wad' with file.
+[16:27:08] Unable to load texture file Environment\Structures\CoveredBridge_Norm_02.tga
+[16:27:09] Unable to load texture file Environment\Buildings\VictorianHouses\Textures\WoodSiding04.tga
+[16:27:09] > res 1920x1080
+[16:27:09] Changed resolution to 1920 x 1080
+
+[16:27:09] OpenGL 2.1 NVIDIA-10.4.2 310.41.35f01 initialized
+[16:27:09] Graphics Vendor: NVIDIA Corporation
+[16:27:09] Graphics Renderer: NVIDIA GeForce GT 750M OpenGL Engine
+[16:27:09] RAM: 16GB
+[16:27:09] CPU: Intel(R) Core(TM) i7-4980HQ CPU @ 2.80GHz
+[16:27:09] ANT  : ANT USB receiver NOT found
+[16:27:09] Loading WAD file 'assets/workouts/workouts.wad' with file.
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not fi
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not fi
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not fi
+[16:27:09] ERROR: GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output of vertex shader 'linDepth' not read by fragment shader
+ERROR: Input of fragment shader 'vShad
+[16:27:09] ERROR: Missing Vertex Shader asset data/shaders/Final/simpleShader.vsh
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output of vertex shader 'vNormal' not read by fragment shader
+WARNING: Output of vertex shader 'vViewNormal' not read by fragment shader
+
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not fi
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not fi
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output of vertex shader 'vShadowTexCoords' not read by fragment shader
+WARNING: Output of vertex shader 'vTexCoord0' not read by fragment shader
+WARNING: Output of vertex shader 'vViewNormal' not read by fragment shader
+WARNING: Output of vertex shader 'vHeadlightCoords' not read by fragment shader
+
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output of vertex shader 'vColor' not read by fragment shader
+WARNING: Output of vertex shader 'vNormal' not 
+[16:27:09] ERROR: Missing Vertex Shader asset data/shaders/Final/SSR.vsh
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output of vertex shader 'vHeadlightCoords' not read by fragment shader
+WARNING: Output of vertex shader 'vCo
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output of vertex shader 'vHeadlightCoords' not read by fragment shader
+WARNING: Output of vertex shader 'vCo
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output of vertex shader 'vShadowTexCoords' not read by fragment shader
+
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output of vertex shader 'vShadowTexCoords' not read by fragment shader
+
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output of vertex shader 'vColor' not read by fragment shader
+WARNING: Output of vertex shader 'fogFactor' not read by fragment shader
+
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output of vertex shader 'vShadowTexCoords' not read by fragment shader
+
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not fi
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not fi
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output
+[16:27:09] Loading WAD file 'assets/Environment/SkyDome/sky.wad' with file.
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output of vertex shader 'vNormal' not read by fragment shader
+WARNING: Output of vertex shader 'vViewNormal' not read by fragment shader
+
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not fi
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[16:27:09] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord0' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output o
+[16:27:10] Loading WAD file 'assets/Bikes/Components/Zwift/Steel/ZwiftSteel.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Components/Campagnolo/SuperRecord/SuperRecord.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Wheels/Vision/Vision_Metron_81/Metron81.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Frames/Canyon_Aeroad/frame.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Frames/Parlee_ESX/frame.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Frames/Pinarello_Dogma/frame.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Frames/Pinarello_F8/frame.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Frames/Pinarello_TT/frame.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Frames/Trek/frame.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Frames/TrekMadone/frame.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Frames/Zwift_Aero/frame.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Frames/Zwift_BW/frame.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Frames/Zwift_Carbon/frame.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Frames/Zwift_Concept/frame.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Frames/Zwift_Steel/frame.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Frames/Zwift_TT/frame.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Frames/Specialized_Allez/frame.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Frames/Specialized_Venge/frame.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Frames/TrekEmonda/frame.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Frames/Specialized_Tarmac/frame.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Frames/Canyon_Speedmax/frame.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Wheels/Zipp/Zipp_808_Firecrest/Firecrest808.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Wheels/Zipp/Zipp_404_Firecrest/Firecrest404.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Wheels/Zipp/Zipp_202_Firecrest/Firecrest202.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Components/Shimano/DuraAce/DuraAce.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Components/Specialized/Sworks/Sworks.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Wheels/Zipp/Zipp_Disc/Disc.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Wheels/Mavic/CosmicCXR60c/CosmicCXR60c.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Wheels/Zwift/Zwift_Concept/Concept.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Wheels/Zwift/Zwift_Classic/Classic.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Wheels/Zwift/Zwift_BW/BW.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Wheels/Campagnolo/Campagnolo_Bora_Ultra/BoraUltra.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Wheels/Bontrager/Aeolus5/Aeolus5.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/Wheels/Specialized/Roval/Roval.wad' with file.
+[16:27:10] Unable to open WAD file "assets/Bikes/Specialized_Amira/frame.wad".
+[16:27:10] ERROR: Could not load wad file: assets/Bikes/Specialized_Amira/frame.wad
+[16:27:10] Unable to open WAD file "assets/Bikes/SpecializedShiv/frame.wad".
+[16:27:10] ERROR: Could not load wad file: assets/Bikes/SpecializedShiv/frame.wad
+[16:27:10] Loading WAD file 'assets/Humans/Accessories/Helmets/ZwiftHelmet.wad' with file.
+[16:27:10] Loading WAD file 'assets/Humans/Accessories/Glasses/ZwiftGlasses.wad' with file.
+[16:27:10] Loading WAD file 'assets/Humans/Accessories/Shoes/Shoes.wad' with file.
+[16:27:10] Loading WAD file 'assets/Bikes/bikes_config.wad' with file.
+[16:27:10] Unable to load texture file Bikes\Wheels\Vision_Metron_81\Textures\wheel_D_BlackOut.tga
+[16:27:10] Unable to load texture file Bikes\Wheels\Vision_Metron_81\Textures\wheel_D_BlackOut.tga
+[16:27:10] Unable to load texture file Bikes\Wheels\Zwift_Classic\Textures\Zwift_Classic_Diffuse.tga
+[16:27:10] Unable to load texture file Bikes\Wheels\Zwift_Classic\Textures\Zwift_Classic_Diffuse.tga
+[16:27:10] Loading WAD file 'assets/Humans/Jerseys/Originals/originals_01.wad' with file.
+[16:27:10] Loading WAD file 'assets/Humans/Jerseys/Pro_Teams/pro_teams_01.wad' with file.
+[16:27:10] Loading WAD file 'assets/Humans/Jerseys/Companies/Companies.wad' with file.
+[16:27:11] Loading WAD file 'assets/Humans/Jerseys/Originals/camo_01.wad' with file.
+[16:27:11] Loading WAD file 'assets/Humans/Male_Road_Cyclist_01/male_road_cyclist_01.wad' with file.
+[16:27:11] Loading WAD file 'assets/Humans/Male_Road_Cyclist_01/male_road_cyclist_01_textures.wad' with file.
+[16:27:11] Loading WAD file 'assets/Humans/Jerseys/Specials/specials_01.wad' with file.
+[16:27:11] Loading WAD file 'assets/Humans/Jerseys/Events/Events.wad' with file.
+[16:27:11] Loading WAD file 'assets/Humans/Jerseys/Clubs/Clubs.wad' with file.
+[16:27:11] Loading WAD file 'assets/Humans/Jerseys/Pack01/Pack01.wad' with file.
+[16:27:11] Loading WAD file 'assets/Humans/Jerseys/Pack02/Pack02.wad' with file.
+[16:27:11] Unable to load texture file Humans\Male_Road_Cyclist_01\textures\ZwiftHelmet2_Diffuse.tga
+[16:27:12] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+
+[16:27:12] Loading WAD file 'assets/UI/flags/flags.wad' with file.
+[16:27:12] Loading WAD file 'assets/UI/Challenges/Challenges.wad' with file.
+[16:27:12] No username specified
+[16:27:12] Loaded audio banks
+[16:27:12] ANT  : Setting network key on network 0...
+[16:27:12] ANT  : Setting network key on network 1...
+[16:27:13] ANT  : Setting network key on network 2...
+[16:27:13] LOAD TIME = 6107
+[16:27:13] ANT DONGLE NOT CONNECTED
+[16:27:13] GLSL log: WARNING: Could not find vertex shader attribute 'inWeights' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inPos_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm_alt' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inNorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTan' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inTexCoord1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inBinorm' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inColor1' to match BindAttributeLocation request.
+WARNING: Could not find vertex shader attribute 'inIndices' to match BindAttributeLocation request.
+WARNING: Output of vertex shader 'vColor' not read by fragment shader
+
+[16:27:14] resize: 1436 x 855
+
+[16:27:17] FPS  20,  8803, 10196, -23009
+[16:27:18] FPS  20,  8803, 10196, -23009
+[16:27:20] FPS  20,  8803, 10196, -23009
+[16:27:21] FPS  21,  8803, 10196, -23009

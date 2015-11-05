@@ -1,0 +1,51 @@
+[17:47:22 2015-10-28] Patcher: Launcher and Patcher Version Number: "1.2.0".
+[17:47:22 2015-10-28] Patcher: Local download path set to "/Users/staunsholm/Downloads/ZwiftTemp/".
+[17:47:22 2015-10-28] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[17:47:22 2015-10-28] Patcher: Local update path set to "/Users/staunsholm/Library/Application Support/Zwift/".
+[17:47:22 2015-10-28] Patcher: Kicking download of "ZwiftMac_ver_cur.xml"...
+[17:47:22 2015-10-28] Patcher: Kicking download of "LauncherMac_ver_cur.xml"...
+[17:47:23 2015-10-28] Downloader: "ZwiftMac_ver_cur.xml" downloaded successfully.
+[17:47:23 2015-10-28] Downloader: "LauncherMac_ver_cur.xml" downloaded successfully.
+[17:47:23 2015-10-28] Patcher: Completed downloading server XML version files (Game & Launcher).
+[17:47:23 2015-10-28] Patcher: Fetching version attribute from file: "/Users/staunsholm/Library/Application Support/Zwift/ZwiftMac_ver_cur.xml"
+[17:47:23 2015-10-28] Patcher: Local version is "1.0.8190".
+[17:47:23 2015-10-28] Patcher: Server version is "1.0.8252".
+[17:47:23 2015-10-28] Patcher: Local manifest is "ZwiftMac_1.0.8190_manifest.xml".
+[17:47:23 2015-10-28] Patcher: Server manifest is "ZwiftMac_1.0.8252_manifest.xml".
+[17:47:23 2015-10-28] Patcher: Local Launcher version is "1.0.6".
+[17:47:23 2015-10-28] Patcher: Server Launcher version is "1.0.5".
+[17:47:23 2015-10-28] Patcher: Launcher URL for updating self is "http://cdn.zwift.com/app/MacUpdate/".
+[17:47:23 2015-10-28] Patcher: Update available(1.0.8190 != 1.0.8252) false 
+[17:47:23 2015-10-28] Patcher: Kicking download of "ZwiftMac_1.0.8252_manifest.xml"...
+[17:47:29 2015-10-28] Downloader: "ZwiftMac_1.0.8252_manifest.xml" downloaded successfully.
+[17:47:29 2015-10-28] Patcher: "ZwiftMac_1.0.8252_manifest.xml" was downloaded successfully.
+[17:47:29 2015-10-28] Patcher: Parsing local "ZwiftMac_1.0.8190_manifest.xml"...
+[17:47:29 2015-10-28] Patcher: Parsing server "ZwiftMac_1.0.8252_manifest.xml"...
+[17:47:29 2015-10-28] Patcher: Root server folder containing files to download is "Zwift_1.0.8252"
+[17:47:29 2015-10-28] Patcher: Preparing for software update...
+[17:47:29 2015-10-28] Patcher:     "ZwiftApp" out of date -- adding to missing files list.
+[17:47:29 2015-10-28] Patcher:     "assets\global.wad" out of date -- adding to missing files list.
+[17:47:29 2015-10-28] Patcher:     "assets\Humans\Accessories\Glasses\ZwiftGlasses.wad" out of date -- adding to missing files list.
+[17:47:29 2015-10-28] Patcher:     "assets\Humans\Accessories\Helmets\ZwiftHelmet.wad" out of date -- adding to missing files list.
+[17:47:29 2015-10-28] Patcher:     "assets\Humans\Male_Road_Cyclist_01\male_road_cyclist_01.wad" out of date -- adding to missing files list.
+[17:47:29 2015-10-28] Patcher:     "assets\Workouts\workouts.wad" out of date -- adding to missing files list.
+[17:47:29 2015-10-28] Patcher: Kicking download of missing local files from server...
+[17:48:05 2015-10-28] Downloader: "ZwiftApp" downloaded successfully.
+[17:48:15 2015-10-28] Downloader: "assets\global.wad" downloaded successfully.
+[17:48:15 2015-10-28] Downloader: "assets\Humans\Accessories\Glasses\ZwiftGlasses.wad" downloaded successfully.
+[17:48:15 2015-10-28] Downloader: "assets\Humans\Accessories\Helmets\ZwiftHelmet.wad" downloaded successfully.
+[17:48:28 2015-10-28] Downloader: "assets\Humans\Male_Road_Cyclist_01\male_road_cyclist_01.wad" downloaded successfully.
+[17:48:28 2015-10-28] Downloader: "assets\Workouts\workouts.wad" downloaded successfully.
+[17:48:28 2015-10-28] Patcher: Completed download of needed server files for update.
+[17:48:28 2015-10-28] Patcher: Copying new and replacement files into place...
+[17:48:28 2015-10-28] Patcher: Copying new and replacement files into place...
+[17:48:28 2015-10-28] Patcher: Deleting unneeded files...
+[17:48:28 2015-10-28] Patcher: Copying new Manifest file into place ("/Users/staunsholm/Downloads/ZwiftTemp/ZwiftMac_1.0.8252_manifest.xml"->"/Users/staunsholm/Library/Application Support/Zwift/ZwiftMac_1.0.8252_manifest.xml")
+[17:48:28 2015-10-28] Patcher: Copying new Game Version file into place ("/Users/staunsholm/Downloads/ZwiftTemp/ZwiftMac_ver_cur.xml"->"/Users/staunsholm/Library/Application Support/Zwift/ZwiftMac_ver_cur.xml")
+[17:48:28 2015-10-28] Patcher: Copying new Launcher Version file into place ("/Users/staunsholm/Downloads/ZwiftTemp/LauncherMac_ver_cur.xml"->"/Users/staunsholm/Library/Application Support/Zwift/LauncherMac_ver_cur.xml")
+[17:48:28 2015-10-28] Patcher: Local Game version is now "1.0.8252".
+[17:48:28 2015-10-28] Patcher: Deleting temp files...
+[17:48:28 2015-10-28] 
+Patcher: Deleting /Users/staunsholm/Downloads/ZwiftTemp/
+[17:48:28 2015-10-28] Patcher: Parsing local "ZwiftMac_1.0.8252_manifest.xml"...
+[17:48:28 2015-10-28] Patcher: Iterating "ZwiftMac_1.0.8252_manifest.xml" to verify local files...

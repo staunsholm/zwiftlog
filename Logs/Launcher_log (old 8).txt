@@ -1,0 +1,20 @@
+[23:25:06 2015-10-29] Patcher: Launcher and Patcher Version Number: "1.2.0".
+[23:25:06 2015-10-29] Patcher: Local download path set to "/Users/staunsholm/Downloads/ZwiftTemp/".
+[23:25:06 2015-10-29] Patcher: Server URL path set to "http://cdn.zwift.com/gameassets/Zwift_Updates_Root/".
+[23:25:06 2015-10-29] Patcher: Local update path set to "/Users/staunsholm/Library/Application Support/Zwift/".
+[23:25:06 2015-10-29] Patcher: Kicking download of "ZwiftMac_ver_cur.xml"...
+[23:25:06 2015-10-29] Patcher: Kicking download of "LauncherMac_ver_cur.xml"...
+[23:25:06 2015-10-29] Downloader: "ZwiftMac_ver_cur.xml" downloaded successfully.
+[23:25:06 2015-10-29] Downloader: "LauncherMac_ver_cur.xml" downloaded successfully.
+[23:25:06 2015-10-29] Patcher: Completed downloading server XML version files (Game & Launcher).
+[23:25:06 2015-10-29] Patcher: Fetching version attribute from file: "/Users/staunsholm/Library/Application Support/Zwift/ZwiftMac_ver_cur.xml"
+[23:25:06 2015-10-29] Patcher: Local version is "1.0.8252".
+[23:25:06 2015-10-29] Patcher: Server version is "1.0.8252".
+[23:25:06 2015-10-29] Patcher: Local manifest is "ZwiftMac_1.0.8252_manifest.xml".
+[23:25:06 2015-10-29] Patcher: Server manifest is "ZwiftMac_1.0.8252_manifest.xml".
+[23:25:06 2015-10-29] Patcher: Local Launcher version is "1.0.6".
+[23:25:06 2015-10-29] Patcher: Server Launcher version is "1.0.5".
+[23:25:06 2015-10-29] Patcher: Launcher URL for updating self is "http://cdn.zwift.com/app/MacUpdate/".
+[23:25:06 2015-10-29] Patcher: No update available, deleting temp files...
+[23:25:06 2015-10-29] 
+Patcher: Deleting /Users/staunsholm/Downloads/ZwiftTemp/
